@@ -1,0 +1,572 @@
+HP:0025731	Positividad del anticuerpo anti proteína 1 de unión a lipoproteínas de alta densidad anclada a glucosilfosfatidilinositol
+HP:0025732	Desarrollo social anormal
+HP:0025733	Estría gónada
+HP:0025734	Nivel elevado de ácido 5-hidroxihexanoico en orina
+HP:0025735	Morfología anormal del tercer par craneal
+HP:0025736	Fractura de huesos largos
+HP:0025737	Morfología anormal del núcleo subtalámico
+HP:0025738	Lesión cerebral con realce anular
+HP:0025739	Masa del nervio óptico
+HP:0025740	Nivel elevado de succinato cerebral por MRS
+HP:0025741	Lucencia del tronco encefálico
+HP:0025742	Nivel elevado de L-xilulosa en orina
+HP:0025743	Nivel elevado de biliverdina en orina
+HP:0025744	Nivel elevado de ácido dodecanodioico en orina
+HP:0025745	Nivel anormal de aminoácidos en orina
+HP:0025746	Disminución del nivel de glutamina en orina
+HP:0025747	Espasticidad lingual
+HP:0025748	Restricción del movimiento de la lengua
+HP:0025749	Presión arterial asimétrica entre extremidades
+HP:0025750	Presión arterial asimétrica entre las piernas
+HP:0025751	Espesor escleral anterior reducido
+HP:0025752	Espesor escleral posterior reducido
+HP:0025753	Ácido 2-aminoisobutírico urinario elevado
+HP:0025754	Reducción de la actividad de la beta-hexosaminidasa A
+HP:0025755	Forma anormal de la uña
+HP:0025756	Fijación anormal de las uñas
+HP:0025757	Superficie ungueal anormal
+HP:0025758	Característica de la masa
+HP:0025759	Terrón móvil
+HP:0025760	Propiedad
+HP:0025761	Masa indolora
+HP:0025762	Positividad de los anticuerpos antireceptor ganglionar de acetilcolina
+HP:0025763	Hueco aniónico positivo en orina
+HP:0025764	Encefalocele nasoetmoidal
+HP:0025765	Protuberancia similar al caucho
+HP:0025766	Afecto anormal
+HP:0025767	Estado emocional positivo anormal
+HP:0025768	Euforia inapropiada
+HP:0025769	Proceso de pensamiento formal desordenado
+HP:0025770	Sindactilia ósea de 2-3 dedos
+HP:0025771	Reflexiones
+HP:0025772	Patrones léxicos anómalos
+HP:0025773	Semántica anormal
+HP:0025774	Uso idiosincrático de las palabras
+HP:0025775	Discurso tangencial
+HP:0025776	Inserción de pensamientos
+HP:0025777	Difusión del pensamiento
+HP:0025778	Eco del pensamiento
+HP:0025779	Desorden del contenido del pensamiento
+HP:0025780	Estado volitivo anormal
+HP:0025781	Proceso de pensamiento anormalmente rápido
+HP:0025782	Sintaxis anormal
+HP:0025783	Fenotipo conductual diagnóstico
+HP:0025784	Ensalada de palabras
+HP:0025785	Preocupación anormal
+HP:0025786	Lipoma intraóseo
+HP:0025787	Parafilia
+HP:0025788	Modificador radiográfico
+HP:0025789	Radiolucent
+HP:0025790	Radiodenso
+HP:0025791	Delirio de culpabilidad
+HP:0025792	Proceso cognitivo anormal
+HP:0025793	Cambio anormal en el deseo sexual
+HP:0025794	Reducción de la expresión de la superficie celular del CMH I
+HP:0025795	Prueba de agentes infecciosos en orina positiva
+HP:0025796	Prueba de antígeno de Legionella pneumophila en orina positiva
+HP:0025797	Hipoacusia neurosensorial unilateral
+HP:0025798	Morfología anormal de la muñeca
+HP:0025799	Fisiología anormal de la muñeca
+HP:0025800	Inestabilidad de la muñeca
+HP:0025801	Elevación de la uña
+HP:0025802	Reserva de Talipes
+HP:0025803	Lesión mucocutánea dolorosa
+HP:0025804	Linfadenopatía dolorosa
+HP:6000705	Córtex fibular engrosado
+HP:6000706	Nuevos medicamentos añadidos en las últimas semanas
+HP:6000707	Noctural pain
+HP:6000708	Femoral osteosclerosis
+HP:6000709	Ausencia Fenómeno de Bell
+HP:6000710	Nódulos del zorro Dalen
+HP:6000711	Desencadenamiento por traumatismo ocular
+HP:6000712	Córnea distrófica gelatinosa en forma de gota
+HP:6000713	Depósito de hierro en las células del sistema reticuloendotelial hepático
+HP:6000714	Reducción de la expresión epidérmica de kindlina-1
+HP:6000715	Lesión central de células gigantes de la mandíbula
+HP:6000716	Oclusión vascular lobular hepática terminal
+HP:6000717	Esferoides axonales
+HP:6000718	Disminución de la expresión de la bomba de exportación de sales biliares del hígado
+HP:6000719	Reducción de la actividad de la yodotironina deiodinasa tipo II tisular
+HP:6000720	Reducción de la actividad de la aldehído deshidrogenasa grasa tisular
+HP:6000721	Disminución de la actividad de la isoamilasa pancreática circulante
+HP:6000722	Reducción de la actividad de la guanidinoacetato metiltransferasa tisular
+HP:6000723	Reducción de la actividad de la galactocinasa eritrocitaria
+HP:6000724	Señal Auspitz
+HP:6000725	Piel con sabor salado
+HP:6000726	Nódulo del cuero cabelludo
+HP:6000727	Antecedentes de ingestión de carne de cerdo poco cocinada
+HP:6000728	Antecedentes de exposición reciente a roedores
+HP:6000729	Prueba de hongos en LCR positiva
+HP:6000730	Positividad de anticuerpos contra el virus linfotrópico humano tipo I en LCR
+HP:6000731	Prueba de ácido nucleico en orina positiva para Chlamydia trachomatis
+HP:6000732	Positividad de los anticuerpos antiestreptococos desoxirribonucleasa-B
+HP:6000733	Prueba de detección rápida de antígeno de estreptococo A positiva
+HP:6000734	Cultivo positivo de micobacterias sinoviales
+HP:6000735	Prueba de ácido nucleico sinovial micobacteriano positiva
+HP:6000736	Prueba del patógeno del ácido nucleico de la babesia en el torrente sanguíneo positiva
+HP:6000737	Prueba nucleica de la gripe en el torrente sanguíneo positiva
+HP:6000738	Prueba de ácido nucleico del virus de la parainfluenza en sangre positiva
+HP:6000739	Prueba positiva de ácido nucleico de adenovirus en el torrente sanguíneo
+HP:6000740	Positividad de anticuerpos anti-Francisella tularensis
+HP:6000741	Prueba de ácido nucleico del coronavirus MERS en torrente sanguíneo positiva
+HP:6000742	Prueba de ácido nucleico positiva para corynebacterium diphtheriae nasofaríngea
+HP:6000743	Pediculosis capitis
+HP:6000744	Arrugas prematuras de la piel glabelar
+HP:6000745	Hiperpigmentación reticulada flexural
+HP:6000746	Excreción fraccionada elevada de urato
+HP:6000747	Nivel anormal de creatina en la orina
+HP:6000748	Disminución del nivel urinario de creatina
+HP:6000749	Concentración circulante elevada del propéptido aminoterminal del procolágeno tipo I
+HP:6000750	Disminución de la actividad de la S-adenosilhomocisteína hidrolasa tisular
+HP:6000751	Disminución del nivel urinario de dopamina
+HP:6000752	Concentración eritrocitaria elevada de AICA-ribotida
+HP:6000753	Concentración elevada de monometil esterol circulante
+HP:6000754	Concentración elevada de dimetil esterol circulante
+HP:6000755	Concentración elevada del factor de crecimiento de fibroblastos 23 C-terminal circulante
+HP:6000756	Nivel elevado de ácido 5-hidroxiindolacético en orina
+HP:6000757	Concentración elevada de tiosulfato circulante
+HP:6000758	Concentración circulante elevada del antagonista del receptor de interleucina 1
+HP:6000759	Prueba de ácido nucleico del virus del Nilo Occidental en LCR positiva
+HP:6000760	Prueba de ácido nucleico del virus del herpes simple en LCR positiva
+HP:6000761	Prueba del antígeno criptocócico en LCR positiva
+HP:6000762	Cultivo de LCR positivo para rubéola
+HP:6000763	Prueba de ácido nucleico de treponema pallidum en LCR positiva
+HP:6000764	Disminución del nivel de tetrahidrobiopterina en LCR
+HP:6000765	Disminución de la concentración de N-acetil-aspartil-glutamato en LCR
+HP:6000766	Microscopia positiva de la bacteria Tropheryma whipplei en LCR
+HP:6000767	Positividad de anticuerpos treponémicos en LCR
+HP:6000768	Ecofenómeno
+HP:6000769	Hiperautofluorecencia paracentral
+HP:6000770	Extremidades fetales fijas
+HP:6000771	Red microvascular peripapilar anormal
+HP:6000772	Auriculitis
+HP:6000773	Antecedentes recientes de humedad en el conducto auditivo externo
+HP:6000774	Antecedentes de traumatismos recientes en el conducto auditivo externo
+HP:6000775	Nivel elevado de 4-tiramina en orina
+HP:6000776	Concentración circulante elevada de 3-hidroxicinurenina
+HP:6000777	Muesca posterior del cuerpo vertebral
+HP:6000778	Epífisis tibial distal cónica
+HP:6000779	Cuello femoral osteoporótico
+HP:6000780	Exposición a la olanzapina
+HP:6000781	Reducción de la actividad fosfomanomutasa tisular
+HP:6000782	Reducción de la actividad de la fosfomanosa isomerasa tisular
+HP:6000783	Reducción de la actividad de la palmitoil-proteína tioesterasa tisular
+HP:6000784	Exposición materna a gatos domésticos
+HP:6000785	Ansia de proteínas
+HP:6000786	Ausencia de pulso de la arteria temporal superficial
+HP:6000787	Fenestración de la arteria basilar
+HP:6000788	Desplazamiento del tendón extensor de la articulación metacarpofalángica
+HP:6000789	Heloma
+HP:6000790	Exacerbado por la pronación
+HP:6000791	Distorsión de la parte anterior de la fisura interhemisférica
+HP:6000792	Cultivo positivo de Actinomyces del tracto lagrimal
+HP:6000793	Eschar
+HP:6000794	Antecedentes de uso de ropa muy ajustada
+HP:6000795	Positividad de anticuerpos anti-receptor de folato
+HP:6000796	Prueba VDRL en sangre positiva
+HP:6000797	Prueba de reagina plasmática rápida en sangre positiva
+HP:6000798	Prueba del antígeno p24 del VIH en sangre positiva
+HP:6000799	Prueba de la tuberculosis Quantiferon positiva
+HP:6000800	Frotis de Tzanck con células gigantes multinucleadas
+HP:6000801	Prueba de Mazzotti positiva
+HP:6000802	Prueba de ácido nucleico positiva en sangre para Tropheryma whippelii
+HP:6000803	Nivel elevado de 2,8-dihidroxiadenina en orina
+HP:6000804	Nivel elevado de fructosa en orina
+HP:6000805	Nivel elevado de uroporfirina urinaria
+HP:6000806	Nivel elevado de fosfohidroxilisina en orina
+HP:6000807	Cervical C6/C7 vertebrae fusion
+HP:6000808	Depresión periumbilical
+HP:6000809	Córtex tibial engrosado
+HP:6000810	Córtex femoral engrosado
+HP:6000811	Engrosamiento de la corteza del radio
+HP:6000812	Córtex del cúbito engrosado
+HP:6000813	Índice elevado de aspartato aminotransferasa/alanina aminotransferasa circulante
+HP:6000814	Luxación de la articulación temporomandibular
+HP:6000815	Bocio amiloide
+HP:6000816	Trocánter menor prominente
+HP:6000817	Melorreostosis
+HP:6000818	Defecto transversal del miembro terminal
+HP:6000819	Actividad beta-glucuronidasa circulante elevada
+HP:6000820	Brecha de osmolalidad elevada
+HP:6000821	Concentración elevada de alcohol biliar circulante
+HP:6000822	Nivel elevado de tetrahidrobiopterina en LCR
+HP:6000823	Concentración elevada de ácido 5-hidroxiindolacético en LCR
+HP:6000824	Eosinofilia del líquido cefalorraquídeo
+HP:6000825	Reducción de la actividad C27 3beta-HSD en fibroblastos cultivados
+HP:6000826	Reducción de la actividad de la procolágeno-lisina,2-oxoglutarato 5-dioxigenasa 1 en fibroblastos cultivados
+HP:6000827	Disminución de la actividad de la fumarilacetoacetato hidrolasa tisular
+HP:6000828	Reducción de la actividad de la peptidasa D tisular
+HP:6000829	Reducción de la actividad de la enzima de escisión de la glicina en los tejidos
+HP:6000830	Disminución de la actividad de la alfa-cetoglutarato deshidrogenasa en fibroblastos cultivados
+HP:6000831	Aumento de la concentración circulante de ácido dihidroxicolestanoico
+HP:6000832	Reducción de la actividad de la fosforilasa cinasa tisular
+HP:6000833	Hiperpotasemia sintomática
+HP:6000834	Nivel elevado de gamma-glutamilcisteína en orina
+HP:6000835	Cultivo micobacteriano de LCR positivo
+HP:6000836	Prueba positiva de patógenos de ácidos nucleicos del tracto respiratorio
+HP:6000837	Prueba positiva de ácido nucleico del coronavirus SARS-CoV-2 en las vías respiratorias
+HP:6000838	Prueba de antígeno criptosporidium fecal positiva
+HP:6000839	Posición horizontal del testículo
+HP:6000840	Inflamación localizada de los tejidos blandos de la extremidad
+HP:6000841	Espesor escleral anormal
+HP:6000842	Pápulas múltiples en forma de cuentas en los párpados
+HP:6000843	Conjuntivitis no exudativa
+HP:6000844	Nematodos en la retina
+HP:6000845	Compresión vascular del octavo par craneal
+HP:6000846	Conductos biliares rebordeados
+HP:6000847	Masa cardíaca
+HP:6000848	Hipertrofia olivar superior
+HP:6000849	Quiste aracnoideo extradural espinal
+HP:6000850	Localización de la corteza temporal
+HP:6000851	Realce meníngeo basilar
+HP:6000852	Megacolon
+HP:6000853	Quiste tiroideo
+HP:6000854	Disminución de la concentración de sulfato circulante
+HP:6000855	Intolerancia al frío
+HP:6000856	Distribución por cabeza y cuello
+HP:6000857	Distribución simétrica
+HP:6000858	Localización de la superficie extensora del músculo
+HP:6000859	Células dérmicas espumosas
+HP:6000860	Disminución de la actividad de la acil-CoA deshidrogenasa tisular de cadena muy larga
+HP:6000861	Disminución de la actividad de la enzima de ramificación del glucógeno tisular
+HP:6000862	Adenoma parotídeo
+HP:6000863	Gradiente sérico-ascitis-albúmina (SAAG) elevado
+HP:6000864	Sonrisa transversal
+HP:6000865	Hiperfalangia del 4º dedo
+HP:6000866	Osificación epifisaria distal del fémur retrasada
+HP:6000867	Osificación epifisaria tibial retardada
+HP:6000868	Hiperfalangia del dedo gordo
+HP:6000869	Ilion esclerótico
+HP:6000870	Deformidad metafisaria en chevron
+HP:6000871	Calcificación en palomitas
+HP:6000872	Aplasia/hipoplasia de la calvaria
+HP:6000873	Espuelas Bowdler
+HP:6000874	Osificación retardada de la clavícula
+HP:6000875	Articulación sacroilíaca ancha
+HP:6000876	Positividad del anticuerpo anti-receptor de glutamato delta2
+HP:6000877	Positividad del anticuerpo anti-factor de transcripción 1 de la familia del perro salchicha
+HP:6000878	Positividad del anticuerpo anti-canal de potasio con dominio de tetramerización 16
+HP:6000879	Positividad del anticuerpo antirregulador de la señalización de la proteína G 8
+HP:6000880	Positividad de anticuerpos anti-neurocondrina
+HP:6000881	Positividad del anticuerpo anti-receptor DCC netrina 1
+HP:6000882	Positividad de anticuerpos antirrecoverina
+HP:6000883	Antecedentes recientes de sedación mediante infusión de propofol
+HP:6000884	Agrandamiento de la cabeza humeral
+HP:6000885	Agrandamiento de la cabeza radial
+HP:6000886	Agrandamiento de la epífisis distal de la tibia
+HP:6000887	Concentración elevada de bismuto en sangre
+HP:6000888	Nivel elevado de bismuto en orina
+HP:6000889	Luxación de la articulación radiocubital distal
+HP:6000890	Luxación de la articulación radiocubital proximal
+HP:6000891	Ausencia del pliegue de flexión de la falange del dedo del pie
+HP:6000892	Células globoides de la sustancia blanca
+HP:6000893	Células zurdas
+HP:6000894	Adenoma mamario
+HP:6000895	Adenoma apocrino de mama
+HP:6000896	Lesión mamaria fibroquística
+HP:6000897	VIPoma pancreático
+HP:6000898	Tumor carcinoide gástrico
+HP:6000899	Prueba cutánea de la sarna positiva
+HP:6000900	Prueba PCR positiva del virus de las paperas en la circulación sanguínea
+HP:6000901	Ensayo positivo de liberación de interferón-gamma inducido por células T en el torrente sanguíneo por tuberculosis
+HP:6000902	Cultivo positivo de Neisseria gonorrhoeae en sangre
+HP:6000903	Positividad de anticuerpos antiparotiditis
+HP:6000904	Coprocultivo positivo de Vibrio cholerae
+HP:6000905	Prueba del ácido nucleico del virus de la varicela zóster cutáneo positiva
+HP:6000906	Cultivo positivo de criptococos en el torrente sanguíneo
+HP:6000907	Prueba positiva de ácido nucleico de Borrelia miyamotoi en el torrente sanguíneo
+HP:6000908	Prueba del patógeno del ácido nucleico del Coxsackievirus en el torrente sanguíneo positiva
+HP:6000909	Prueba de antígeno de Cryptosporidium en heces positiva
+HP:6000910	Disminución de la actividad de la alfa-L-iduronidasa tisular
+HP:6000911	Reducción de la actividad de la neuraminidasa tisular
+HP:6000912	Queratitis numular
+HP:6000913	Hinchazón de la región inguinal
+HP:6000914	Lesión única
+HP:6000915	Disortografía
+HP:6000916	Colon fetal ecogénico
+HP:6000917	Edema de médula ósea
+HP:6000918	Defecto transversal terminal del miembro superior
+HP:6000919	Cartel de ajuar
+HP:6000920	Constricción de la unión craneocervical
+HP:6000921	Torsión del peroné
+HP:6000922	Osificación anormal de las falanges de los dedos
+HP:6000923	Prueba EBV monospot positiva en el torrente sanguíneo
+HP:6000924	Positividad de anticuerpos contra Toxoplasma gondii en LCR
+HP:6000925	Prueba cutánea de la tuberculina positiva
+HP:6000926	Positividad de los anticuerpos anti-Treponema pallidum
+HP:6000927	Positividad de anticuerpos contra Borrelia burgdorferi en LCR
+HP:6000928	Positividad de los anticuerpos contra el virus JC en el LCR
+HP:6000929	Positividad de los anticuerpos neutralizantes contra el virus de la rabia
+HP:6000930	Deterioro de la captación del trazador en la gammagrafía hepatobiliar
+HP:6000931	Nódulo pulmonar calcificado
+HP:6000932	Exacerbación postprandial
+HP:6000933	Fenómeno de Koebner
+HP:6000934	Displasia glenoidea
+HP:6000935	Retracción prolongada del prepucio del pene
+HP:6000936	Córtex engrosado de la clavícula
+HP:6000937	Córtex engrosado de la mandíbula
+HP:6000938	Hipoplasia del pulgar grado 1
+HP:6000939	Hipoplasia del pulgar grado 2
+HP:6000940	Hipoplasia del pulgar grado 3A
+HP:6000941	Hipoplasia del pulgar grado 3B
+HP:6000942	Hipoplasia del pulgar grado 4
+HP:6000943	Osteopoiquilosis femoral
+HP:6000944	Carotidinia
+HP:6000945	Tensión arterial asimétrica entre los brazos
+HP:6000946	Defecto transversal terminal de la extremidad inferior
+HP:6000947	Hemimelia de la parte inferior de la pierna
+HP:6000948	Hemimelia de antebrazo
+HP:6000949	Exposición a inhibidores del transporte sódico de glucosa
+HP:6000950	Hechizo de contención de la respiración
+HP:6000951	Metáfisis tibial proximal ensanchada
+HP:6000952	Retraso en la osificación de la falange del dedo del pie
+HP:6000953	Ingestión de sorbitol
+HP:6000954	Cultivo bacteriano de líquido peritoneal positivo
+HP:6000955	Depósito ocular de cristales de cistina
+HP:6000956	Tejido de granulación exuberante
+HP:6000957	Oral mucosal papule
+HP:6000958	Piloerección excesiva
+HP:6000959	Edema del cuero cabelludo
+HP:6000960	Madriguera serpiginosa
+HP:6000961	Prueba del ácido nucleico de la rabia en tejido cerebral positiva
+HP:6000962	Prueba positiva de ácido nucleico de Bordetella pertussis en las vías respiratorias
+HP:6000963	Demostración de bacilos acidorresistentes en tejido de heridas
+HP:6000964	Prueba de la levadura en ciernes encapsulada en tejido positiva
+HP:6000965	Cultivo positivo de coccidioidomicosis tisular
+HP:6000966	Disminución de la actividad de la dihidropteridina reductasa tisular
+HP:6000967	Disminución de la concentración circulante de transcobalamina I
+HP:6000968	Disminución de la concentración circulante de tripsinógeno catiónico
+HP:6000969	Disminución de la actividad hialuronidasa circulante
+HP:6000970	Disminución de la actividad sulfotransferasa en fibroblastos cultivados
+HP:6000971	Actividad elevada de la alfa-N-acetilglucosaminidasa tisular
+HP:6000972	Actividad anormal de la alfa-N-acetilglucosaminidasa tisular
+HP:6000973	Concentración elevada de ácido trihidroxicolestanoico circulante
+HP:6000974	Concentración elevada de ácido glioxílico circulante
+HP:6000975	Concentración elevada de sepiapterina en LCR
+HP:6000976	Cuerpos de inclusión intrahepáticos
+HP:6000977	Vacuolas musculares
+HP:6000978	Vacuolas musculares no rimadas
+HP:6000979	Reducción de la actividad de la glucógeno fosforilasa hepática
+HP:6000980	Hemofagocitosis de la médula ósea
+HP:6000981	Granulomatosis esplénica
+HP:6000982	Detumescencia inmediata del pene en el momento de la aparición de los síntomas.
+HP:6000983	Antecedentes de sustitución de la válvula aórtica
+HP:6000984	Elevación del segmento ST de tipo acodado
+HP:6000985	Elevación del segmento ST tipo Saddle-back
+HP:6000986	Concentración de etanol circulante sustancialmente elevada
+HP:6000987	Aspecto tortuoso del estómago
+HP:6000988	Cochlear nerve aplasia
+HP:6000989	Ventrículo lateral en forma de hendidura
+HP:6000990	Exposición fetal a la metanfetamina
+HP:6000991	Concentración circulante elevada de ácido 4-hidroxibutírico
+HP:6000992	Nivel elevado de ácido 2,4-dihidroxibutírico en orina
+HP:6000993	Hipersensibilidad pupilar a agentes parasimpaticomiméticos
+HP:6000994	Falta de respuesta pupilar a la hidroxianfetamina
+HP:6000995	Lesión de fibra U subcortical
+HP:6000996	Intraspinal extradural lipoma
+HP:6000997	Masa intranasal
+HP:6000998	Rotura hepática
+HP:6000999	Aumento del ácido mandélico en orina
+HP:6001000	Nivel elevado de ácido málico en orina
+HP:6001001	Nivel elevado de ácido 3-hidroxisébacico en orina
+HP:6001002	Nivel elevado de ácido vaniláctico en la orina
+HP:6001003	Nivel elevado de ácido 4,5-dihidroxihexanoico en orina
+HP:6001004	Nivel elevado de ácido hidroxifeniláctico en orina
+HP:6001005	Inclusiones intranucleares CMV gástricas positivas
+HP:6001006	Nivel elevado de ácido dihidroxicolestanoico en orina
+HP:6001007	Nivel elevado de alcohol biliar en orina
+HP:6001008	Nivel elevado de tetrasacáridos de glucosa en orina
+HP:6001009	Aumento del nivel de 4-hidroxi-2-oxoglutarato en orina
+HP:6001010	Incapacidad para protruir los labios
+HP:6001011	Voz húmeda
+HP:6001012	Eritema marginado
+HP:6001013	Manos de mecánico
+HP:6001014	Pies de excursionista
+HP:6001015	Positividad de anticuerpos anti-HLA-DQ
+HP:6001016	Eritropoyetina normal o baja inadecuada
+HP:6001017	Vaciado gástrico rápido
+HP:6001018	Calcificación de los ganglios linfáticos mediastínicos
+HP:6001019	Calcificación en cáscara de huevo de los ganglios linfáticos
+HP:6001020	Derrame articular de rodilla
+HP:6001021	Enfisema subcutáneo
+HP:6001022	Elevada captación de gammagrafía ósea
+HP:6001023	Disminución de la actividad de la cadena larga-enoil-CoA hidratasa en fibroblastos cultivados
+HP:6001024	Disminución de la actividad de la acetil-CoA C-aciltransferasa en fibroblastos cultivados
+HP:6001025	Cuerpo de inclusión patológico
+HP:6001026	Reducción de la tinción de la cadena alfa 5 del colágeno IV epidérmico
+HP:6001027	Disminución de la tinción de la cadena alfa 3 del colágeno IV de la membrana basal glomerular
+HP:6001028	Disminución de la tinción de la cadena alfa 4 del colágeno IV de la membrana basal glomerular
+HP:6001029	Disminución de la tinción de la cadena alfa 5 del colágeno IV de la membrana basal glomerular
+HP:6001030	obsoleto Metacromasia del nervio periférico
+HP:6001031	Nefrolitiasis por cistina
+HP:6001032	Acumulación hepática de cistina
+HP:6001033	Acumulación de cistina en la médula ósea
+HP:6001034	Tumor desmoide
+HP:6001035	Duplicación yeyunal tubular
+HP:6001036	Rotura ventricular izquierda
+HP:6001037	Realce perivascular pontino puntiforme
+HP:6001038	Lombriz intestinal
+HP:6001039	Gusano escrotal
+HP:6001040	Adenoma del intestino delgado
+HP:6001041	Moteado de la retina materna
+HP:6001042	Torsión del pedículo de la vesícula biliar
+HP:6001043	Fístula colecisto-entérica
+HP:6001044	Discronometría
+HP:6001045	Antecedentes de lactancia materna intermitente reciente
+HP:6001046	Quiste mamario
+HP:6001047	Circunscrito
+HP:6001048	Lobulado
+HP:6001049	Espiculado
+HP:6001050	Verticilos
+HP:6001051	Patrón de cepillado delta en EEG
+HP:6001052	Sinostosis tibiotalar
+HP:6001053	Vertebra plana
+HP:6001054	Intoeing
+HP:6001055	Estremecimiento palpable en la extremidad
+HP:6001056	Más allá de
+HP:6001057	Luxación de tobillo
+HP:6001058	Positividad de anticuerpos anti-filamento intermedio neuronal
+HP:6001059	Positividad de anticuerpos anti-DREBRIN
+HP:6001060	Positividad de los autoanticuerpos antilipoproteína lipasa
+HP:6001061	Positividad de los autoanticuerpos antiapolipoproteína CII
+HP:6001062	Cuerpos de inclusión neuronales eosinofílicos
+HP:6001063	Olor a pies sudorosos
+HP:6001064	Positividad de los anticuerpos antireceptores de acetilcolina
+HP:6001065	Lesión del tallo piloso
+HP:6001066	Uso prolongado de calzado ajustado
+HP:6001067	Desencadenado por una ingesta elevada de proteínas
+HP:6001068	Engrosamiento de la cúspide de la válvula tricúspide
+HP:6001069	Fontanela anterior desplazada
+HP:6001070	Higroma subdural
+HP:6001071	Anquilosis del yunque
+HP:6001072	Restricción excesiva de la dieta
+HP:6001073	Discinesia apical del ventrículo izquierdo
+HP:6001074	Eritroniquia longitudinal
+HP:6001075	Exacerbado por la exposición a la luz solar
+HP:6001076	Exacerbado por el calor
+HP:6001077	Exacerbado por la sudoración excesiva
+HP:6001078	Derrame pleural maligno
+HP:6001079	Osmolalidad urinaria inadecuadamente baja tras la provocación
+HP:6001080	Reducción de la relación retrahidrocortisol en orina más 5-alfa-THF/tetrahidrocortisona.
+HP:6001081	Nivel elevado de 2,4-dihidroxiglutarato en orina
+HP:6001082	Análisis anormal de D-xilosa en orina
+HP:6001083	Lesión masiva del hemisferio cerebral
+HP:6001084	Borde putaminal hiperintenso en T2
+HP:6001085	Lesión masiva de la fosa posterior
+HP:6001086	Intervalo RR irregular
+HP:6001087	Intervalo P-P irregular
+HP:6001088	Infección capilar por hongos
+HP:6001089	Peinado largo
+HP:6001090	Fibrosis subepitelial conjuntival
+HP:6001091	Escorzo del fórnix conjuntival
+HP:6001092	Fuerte exposición a la luz ultravioleta
+HP:6001093	Exposición a duchas vaginales
+HP:6001094	Exposición a lociones o cremas aceitosas
+HP:6001095	Concentración circulante elevada de ácido pristánico tras la ingestión de ácidos grasos ramificados
+HP:6001096	Disminución de la expresión de la proteína ZAP-70 en células T CD4 positivas
+HP:6001097	Contractura de flexión dorsal del tobillo
+HP:6001098	Submodelación metafisaria
+HP:6001099	Compresión de la vena ilíaca
+HP:6001100	Gammagrafía positiva de amiloide P en suero
+HP:6001101	signo del tronco encefálico cruzado
+HP:6001102	Incapacidad para inflar las mejillas
+HP:6001103	Fenómeno entóptico
+HP:6001104	Abnormal vestibulo-spinal reflex
+HP:6001105	Prueba sonda-hueso positiva
+HP:6001106	Exposición a impactos repetitivos con las manos
+HP:6001107	Fractura del escafoides
+HP:6001108	Ineficacia de los anestésicos locales
+HP:6001109	Localización palmoplantar
+HP:6001110	Oral mucosa plaque
+HP:6001111	Prueba de ácido nucleico de la rabia en saliva positiva
+HP:6001112	Actividad elevada de la arilsulfatasa A tisular
+HP:6001113	Concentración elevada de metisterol circulante
+HP:6001114	Ácido adípico urinario elevado
+HP:6001115	EEG con enlentecimiento temporal
+HP:6001116	Antecedentes de lesiones por inyección a alta presión en la mano
+HP:6001117	Apófisis estiloides cubital hipertrófica
+HP:6001118	Antecedentes de catéter venoso periférico reciente
+HP:6001119	Secreción purulenta de la piel
+HP:6001120	Historial profesional de meter los dedos en la boca de otras personas
+HP:6001121	Implicación de un solo dedo
+HP:6001122	Afectación de varios dedos
+HP:6001123	Dolor desproporcionado a la anomalía en la exploración física
+HP:6001124	Displasia del ala esfenoidal
+HP:6001125	Laceración cutánea
+HP:6001126	Metacarpal fracture
+HP:6001127	Dolor en la base del pulgar
+HP:6001128	Historial de participación reciente en actividades deportivas
+HP:6001129	Historia de trauma remoto
+HP:6001130	Artritis de la articulación radiocubital distal
+HP:6001131	Fractura de la cabeza radial
+HP:6001132	Rotura del ligamento colateral lateral del codo
+HP:6001133	Rotura del ligamento colateral medial del codo
+HP:6001134	Fractura coronoidea
+HP:6001135	Antecedentes de lesión medular
+HP:6001136	Distribución del nervio femoral
+HP:6001137	Rotura del tendón del tríceps
+HP:6001138	Exposición a la digoxina
+HP:6001139	Dolor en la parte superior del brazo
+HP:6001140	Fractura del Capitellum
+HP:6001141	Dolor en la parte anterior del hombro
+HP:6001142	Dolor en la cara anterior del codo
+HP:6001143	Signo de la almohadilla adiposa posterior del codo
+HP:6001144	Dolor en la cara anterior de la rodilla
+HP:6001145	Dolor en la cara posterior de la rodilla
+HP:6001146	Tendinitis del bíceps
+HP:6001147	Aumento de la sección transversal del nervio periférico
+HP:6001148	Dolor exacerbado por la flexión pasiva de la articulación
+HP:6001149	Prueba de gancho positiva en el codo
+HP:6001150	Prueba de Speed positiva
+HP:6001151	Hueso lunar triangular
+HP:6001152	Dolor exacerbado por la desviación de la muñeca
+HP:6001153	Dolor en la cara lateral del pie
+HP:6001154	Dolor en la cara medial de la rodilla
+HP:6001155	Dolor en la cara lateral de la rodilla
+HP:6001156	Cristales sinoviales
+HP:6001157	Exposición profesional a arrodillarse con frecuencia
+HP:6001158	Dolor trocantérico
+HP:6001159	Masa pulsátil en extremidad
+HP:6001160	Onda R anormal
+HP:6001161	Mala progresión de la onda R
+HP:6001162	Onda R prominente V1-V2
+HP:6001163	Masa de dedos
+HP:6001164	Masa del pie
+HP:6001165	Morfología anormal de las venas retinianas
+HP:6001166	Spongiosis
+HP:6001167	Glándula suprarrenal discoide
+HP:6001168	Morfología anormal de la vasculatura del disco óptico
+HP:6001169	Distribución del nervio supraclavicular
+HP:6001170	Rotación interna del hombro limitada
+HP:6001171	Desplazamiento superior de la cabeza humeral
+HP:6001172	Aumento de la presión del compartimento
+HP:6001173	Dolor en la cara lateral del codo
+HP:6001174	Dolor en la cara posterior del codo
+HP:6001175	Dolor en la cara medial del codo
+HP:6001176	Distribución del nervio radial
+HP:6001177	Hueso omovertebral
+HP:6001178	Edema clavicular
+HP:6001179	Prueba positiva de anticuerpos antisarampión en LCR
+HP:6001180	Protección contra las estrías
+HP:6001181	Engrosamiento de la coroides
+HP:6001182	Edema epitelial corneal
+HP:6001183	Vasos de derivación retiniana
+HP:6001184	Queratitis filamentosa
+HP:6001185	Concentración circulante elevada de glucosilsfingosina
+HP:6001186	Hemorragia del disco óptico
+HP:6001187	Reducción de la concentración circulante de progranulina
+HP:6001188	Linfadenopatía preauricular
+HP:6001189	Onicoheterotopía
+HP:6001190	Expresión anormal de la superficie del CMH
+HP:6001191	Desplazamiento hacia delante de la duramadre cervical posterior en la flexión del cuello
+HP:6001192	Delenios corneales
+HP:6001193	Conjunctival xerosis
+HP:6001194	Rotación externa del hombro limitada
+HP:6001195	Exposición profesional a traumatismos frecuentes en las manos
+HP:6001196	Incapacidad para extender completamente el dedo en la articulación metacarpofalángica.
+HP:6001197	Artritis de muñeca
+HP:6001198	Ensanchamiento del intervalo escafolunar
+HP:6001199	Localización de pulpa de mayor tamaño
+HP:6001200	Dolor cubital de muñeca
+HP:6001201	Ensanchamiento del intervalo lunotriquetral
+HP:6001202	Traslocación cubital del carpo

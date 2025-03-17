@@ -1,0 +1,885 @@
+Added 'dominant' to document 998578
+Added 'pits' to document 998578
+Added 'deafness' to document 998578
+Added 'pits' to document 998578
+Added 'renal agenesis' to document 998578
+Added 'pits' to document 998578
+Added 'tumors' to document 8414026
+Added 'vestibular schwannomas' to document 8414026
+Added 'schwannomas' to document 8414026
+Added 'neurofibromatosis' to document 2282716
+Added 'sporadic cases' to document 2282716
+Added 'sporadic cases' to document 2282716
+Added 'tumors' to document 2282716
+Added 'acoustic neurinomas' to document 2282716
+Added 'neurinomas' to document 2282716
+Added 'clinical heterogeneity' to document 2282716
+Added 'heterogeneity' to document 2282716
+Added 'dominant' to document 9546330
+Added 'epilepsy' to document 9546330
+Added 'seizures' to document 9546330
+Added 'seizures' to document 9546330
+Added 'renal dysplasia' to document 3740720
+Added 'hearing loss' to document 3740720
+Added 'pits' to document 3740720
+Added 'fistulas' to document 3740720
+Added 'renal malformations' to document 3740720
+Added 'autosomal dominant' to document 3740720
+Added 'dominant' to document 3740720
+Added 'autosomal dominant disorder' to document 8808282
+Added 'dominant' to document 8808282
+Added 'branchial' to document 8808282
+Added 'rapid progression' to document 263442
+Added 'autosomal dominant disorder' to document 263442
+Added 'pits' to document 263442
+Added 'branchial' to document 263442
+Added 'branchial' to document 263442
+Added 'pits' to document 263442
+Added 'renal anomalies' to document 263442
+Added 'pits' to document 263442
+Added 'branchial' to document 263442
+Added 'pterygium' to document 18478600
+Added 'pits' to document 18478600
+Added 'cleft lip' to document 18478600
+Added 'cleft lip and palate' to document 18478600
+Added 'lip pits' to document 18478600
+Added 'pits' to document 18478600
+Added 'hypospadias' to document 18478600
+Added 'branchial cleft' to document 15734008
+Added 'branchial' to document 15734008
+Added 'deafness' to document 6741990
+Added 'autosomal dominant trait' to document 6741990
+Added 'dominant trait' to document 6741990
+Added 'dominant' to document 6741990
+Added 'de novo' to document 6741990
+Added 'de novo mutation' to document 6741990
+Added 'mental retardation' to document 16401744
+Added 'retardation' to document 16401744
+Added 'jerky movements' to document 16401744
+Added 'laughter' to document 16401744
+Added 'myoclonic' to document 16401744
+Added 'seizures' to document 16401744
+Added 'childhood' to document 16401744
+Added 'childhood' to document 16401744
+Added 'retardation' to document 8103288
+Added 'de novo' to document 8103288
+Added 'basal cell nevus syndrome' to document 3943073
+Added 'sporadic' to document 3943073
+Added 'sporadic cases' to document 3943073
+Added 'autosomal dominant disorder' to document 9096761
+Added 'dominant' to document 9096761
+Added 'pits' to document 9096761
+Added 'tumor' to document 9096761
+Added 'pits' to document 9096761
+Added 'pits' to document 9096761
+Added 'spina bifida' to document 9096761
+Added 'odontogenic keratocyst' to document 9096762
+Added 'pits of the palms' to document 9096762
+Added 'pits' to document 9096762
+Added 'increased skin pigmentation' to document 9096762
+Added 'autosomal dominant' to document 1479598
+Added 'dominant inheritance' to document 1479598
+Added 'dominant' to document 1479598
+Added 'vestibular schwannomas' to document 1479598
+Added 'schwannomas' to document 1479598
+Added 'schwannomas' to document 1479599
+Added 'meningiomas' to document 1479599
+Added 'tumours' to document 1479599
+Added 'tumour' to document 1479599
+Added 'schwannomas' to document 1479599
+Added 'heterogeneity' to document 1479599
+Added 'hearing loss' to document 2729353
+Added 'ataxia' to document 2729353
+Added 'variable' to document 2729353
+Added 'mental retardation' to document 8786067
+Added 'laughter' to document 8786067
+Added 'arthrogryposis' to document 3287922
+Added 'joint contractures' to document 3287922
+Added 'contractures' to document 3287922
+Added 'arthrogryposis' to document 3287922
+Added 'vestibular schwannomas' to document 12473765
+Added 'schwannomas' to document 12473765
+Added 'bilateral vestibular schwannomas' to document 12473765
+Added 'vestibular schwannomas' to document 12473765
+Added 'schwannomas' to document 12473765
+Added 'vestibular schwannomas' to document 12473765
+Added 'schwannomas' to document 12473765
+Added 'autosomal dominant disorder' to document 6964893
+Added 'dominant' to document 6964893
+Added 'hearing loss' to document 6964893
+Added 'pits' to document 6964893
+Added 'branchial' to document 6964893
+Added 'fistulas' to document 6964893
+Added 'branchial' to document 6964893
+Added 'branchial' to document 6964893
+Added 'clefts' to document 6964893
+Added 'renal dysplasia' to document 6964893
+Added 'brachydactyly' to document 12567410
+Added 'hip dysplasia' to document 12567410
+Added 'locus heterogeneity' to document 12567410
+Added 'heterogeneity' to document 12567410
+Added 'somatic mosaicism' to document 15385437
+Added 'retardation' to document 15385437
+Added 'autosomal dominant disorder' to document 1348213
+Added 'dominant' to document 1348213
+Added 'basal cell carcinomas' to document 1348213
+Added 'cancer' to document 1348213
+Added 'tumor' to document 1348213
+Added 'sporadic' to document 1348213
+Added 'sporadic' to document 1348213
+Added 'tumors' to document 1348213
+Added 'tumors' to document 1348213
+Added 'tumor' to document 1348213
+Added 'ear anomalies' to document 17431915
+Added 'polydactyly' to document 17431915
+Added 'polydactyly' to document 17431915
+Added 'heterogeneous' to document 17431915
+Added 'sporadic' to document 9931336
+Added 'dominant' to document 12384778
+Added 'heterogeneity' to document 12384778
+Added 'autosomal dominant disorder' to document 1307249
+Added 'dominant' to document 1307249
+Added 'variable' to document 1307249
+Added 'branchial' to document 1307249
+Added 'heterogeneity' to document 1307249
+Added 'variability' to document 1307249
+Added 'autosomal dominant' to document 1307249
+Added 'dominant' to document 1307249
+Added 'variability' to document 8755919
+Added 'tumors' to document 8755919
+Added 'young' to document 8755919
+Added 'heterogeneity' to document 8755919
+Added 'sporadic' to document 8755919
+Added 'tumors' to document 8755919
+Added 'vestibular schwannoma' to document 12011146
+Added 'schwannoma' to document 12011146
+Added 'young' to document 12011146
+Added 'bilateral disease' to document 12011146
+Added 'vestibular schwannoma' to document 12011146
+Added 'schwannoma' to document 12011146
+Added 'tumour' to document 12011146
+Added 'tumour' to document 12011146
+Added 'tumour' to document 12011146
+Added 'tumour' to document 12011146
+Added 'tumour' to document 12011146
+Added 'tumour' to document 12011146
+Added 'somatic mosaicism' to document 12011146
+Added 'vestibular schwannoma' to document 12011146
+Added 'schwannoma' to document 12011146
+Added 'schwannoma' to document 12011146
+Added 'vestibular schwannomas' to document 12011146
+Added 'schwannomas' to document 12011146
+Added 'bilateral disease' to document 12011146
+Added 'tumour' to document 12011146
+Added 'tumour' to document 12011146
+Added 'dominant' to document 10631923
+Added 'childhood' to document 10631923
+Added 'abdominal pain' to document 10631923
+Added 'pain' to document 10631923
+Added 'mentally retarded' to document 10631923
+Added 'retarded' to document 10631923
+Added 'retarded' to document 8929945
+Added 'oculocutaneous albinism' to document 8929945
+Added 'mental retardation' to document 8929945
+Added 'retardation' to document 8929945
+Added 'ataxic' to document 8929945
+Added 'infancy' to document 8929945
+Added 'retardation' to document 1951448
+Added 'retardation' to document 1951448
+Added 'tumor' to document 6261046
+Added 'dominant' to document 18423521
+Added 'variable' to document 18423521
+Added 'clefts' to document 18423521
+Added 'de novo' to document 18423521
+Added 'genetic heterogeneity' to document 18423521
+Added 'heterogeneity' to document 18423521
+Added 'seizures' to document 8576558
+Added 'childhood' to document 8576558
+Added 'nonprogressive' to document 8576558
+Added 'contractures' to document 7446562
+Added 'ulnar deviation' to document 7446562
+Added 'contractures' to document 7446562
+Added 'clubfeet' to document 7446562
+Added 'dominant inheritance' to document 7446562
+Added 'dominant' to document 7446562
+Added 'arthrogryposis' to document 7446562
+Added 'dominant transmission' to document 1619642
+Added 'dominant' to document 1619642
+Added 'autosomal recessive form' to document 1619642
+Added 'dominant' to document 1619642
+Added 'mental retardation' to document 7450780
+Added 'retardation' to document 7450780
+Added 'seizures' to document 7450780
+Added 'paroxysms of laughter' to document 7450780
+Added 'laughter' to document 7450780
+Added 'jerky movements' to document 7450780
+Added 'prognathia' to document 7450780
+Added 'autosomal dominant disorder' to document 8954778
+Added 'dominant' to document 8954778
+Added 'variable expression' to document 8954778
+Added 'variable' to document 8954778
+Added 'brachydactyly' to document 8954778
+Added 'de novo' to document 7849713
+Added 'vestibular schwannoma' to document 17307835
+Added 'schwannoma' to document 17307835
+Added 'contractures' to document 7039311
+Added 'contractures' to document 7039311
+Added 'familial cases' to document 7039311
+Added 'arthrogryposis' to document 7039311
+Added 'autosomal dominant' to document 7039311
+Added 'dominant inheritance' to document 7039311
+Added 'dominant' to document 7039311
+Added 'overlapping fingers' to document 7039311
+Added 'foot deformities' to document 7039311
+Added 'interfamilial variability' to document 7039311
+Added 'variability' to document 7039311
+Added 'arthrogryposis' to document 7039311
+Added 'autosomal dominant' to document 7039311
+Added 'dominant inheritance' to document 7039311
+Added 'dominant' to document 7039311
+Added 'contractural arachnodactyly' to document 7039311
+Added 'autosomal dominant form' to document 12219090
+Added 'dominant' to document 12219090
+Added 'dominant form' to document 12219090
+Added 'pits' to document 12219090
+Added 'pterygium' to document 12219090
+Added 'genital anomalies' to document 12219090
+Added 'dominant' to document 12219090
+Added 'dominant' to document 15190457
+Added 'tumors' to document 15190457
+Added 'tumors' to document 15190457
+Added 'tumors' to document 15190457
+Added 'tumors' to document 15190457
+Added 'meningiomas' to document 15190457
+Added 'tumors' to document 15190457
+Added 'tumors' to document 15190457
+Added 'somatic mosaicism' to document 15190457
+Added 'tumors' to document 15190457
+Added 'tumors' to document 15190457
+Added 'tumors' to document 15190457
+Added 'retardation' to document 2918545
+Added 'autosomal recessive inheritance' to document 2918545
+Added 'autosomal recessive' to document 2918545
+Added 'de novo' to document 2918545
+Added 'polydactyly' to document 11152153
+Added 'dominant' to document 8533848
+Added 'branchial' to document 8533848
+Added 'dominant' to document 10569966
+Added 'childhood' to document 10569966
+Added 'neurofibromatosis' to document 10569966
+Added 'retardation' to document 9321755
+Added 'heterogeneity' to document 7747758
+Added 'schwannomas' to document 7747758
+Added 'tumors' to document 7747758
+Added 'tumors' to document 7747758
+Added 'ocular manifestations' to document 7747758
+Added 'schwannomas' to document 7747758
+Added 'tumors' to document 7747758
+Added 'tumors' to document 7747758
+Added 'heterogeneity' to document 7747758
+Added 'tumors' to document 7747758
+Added 'schwannomas' to document 7747758
+Added 'cancer' to document 8001963
+Added 'tumor' to document 8001963
+Added 'autosomal recessive' to document 3585943
+Added 'branchial' to document 10440824
+Added 'mental retardation' to document 7246489
+Added 'retardation' to document 7246489
+Added 'ataxic' to document 7246489
+Added 'ataxic movements' to document 7246489
+Added 'laughter' to document 7246489
+Added 'neoplasia' to document 9236523
+Added 'cutaneous manifestations' to document 9236523
+Added 'angiofibromas' to document 9236523
+Added 'cutaneous manifestations' to document 9236523
+Added 'tumors' to document 9236523
+Added 'brachydactyly' to document 18283415
+Added 'symphalangism' to document 18283415
+Added 'hearing loss' to document 6973119
+Added 'retardation' to document 3063533
+Added 'retardation' to document 8988171
+Added 'laughter' to document 8988171
+Added 'de novo' to document 8988171
+Added 'de novo' to document 8988171
+Added 'renal agenesis' to document 8160736
+Added 'mental retardation' to document 10482951
+Added 'retardation' to document 10482951
+Added 'microcephaly' to document 10482951
+Added 'hypotonia' to document 10482951
+Added 'mental retardation' to document 10482951
+Added 'retardation' to document 10482951
+Added 'vestibular schwannomas' to document 9643284
+Added 'schwannomas' to document 9643284
+Added 'tumours' to document 9643284
+Added 'schwannoma' to document 9643284
+Added 'dominant' to document 1583664
+Added 'brachydactyly' to document 1583664
+Added 'moderate' to document 11078565
+Added 'global developmental delay' to document 11078565
+Added 'developmental delay' to document 11078565
+Added 'happy demeanor' to document 11078565
+Added 'autosomal dominant trait' to document 10066029
+Added 'dominant trait' to document 10066029
+Added 'dominant' to document 10066029
+Added 'variable' to document 10066029
+Added 'odontogenic keratocysts' to document 10066029
+Added 'pits' to document 10066029
+Added 'pits' to document 10066029
+Added 'dominant' to document 8042672
+Added 'variable' to document 8042672
+Added 'plantar pits' to document 8042672
+Added 'pits' to document 8042672
+Added 'tumors' to document 8042672
+Added 'increased skin pigmentation' to document 8042672
+Added 'retardation' to document 1363801
+Added 'arthrogryposis' to document 8923936
+Added 'overlapping fingers' to document 8923936
+Added 'talipes' to document 8923936
+Added 'equinovarus' to document 8923936
+Added 'albinism' to document 2012134
+Added 'profound global developmental delay' to document 2012134
+Added 'developmental delay' to document 2012134
+Added 'microcephaly' to document 2012134
+Added 'young' to document 2012134
+Added 'dominant' to document 2667456
+Added 'intrafamilial variability' to document 2667456
+Added 'variability' to document 2667456
+Added 'dominantly inherited' to document 8379998
+Added 'tumours' to document 8379998
+Added 'tumours' to document 8379998
+Added 'tumour' to document 8379998
+Added 'dominant form' to document 14735582
+Added 'dominant' to document 14735582
+Added 'ulnar deviation' to document 14735582
+Added 'autosomal dominant disorder' to document 8755929
+Added 'phenotypic variability' to document 8755929
+Added 'variability' to document 8755929
+Added 'cancer' to document 8755929
+Added 'retardation' to document 8755929
+Added 'hearing loss' to document 8755929
+Added 'tumors' to document 8755929
+Added 'variable' to document 8755929
+Added 'autosomal dominant disorder' to document 18629882
+Added 'neurinomas' to document 3185841
+Added 'tumor' to document 3185841
+Added 'tumors' to document 3185841
+Added 'neurinomas' to document 3185841
+Added 'tumors' to document 3185841
+Added 'neurinomas' to document 3185841
+Added 'tumors' to document 3185841
+Added 'tumors' to document 3185841
+Added 'neurinomas' to document 3185841
+Added 'tumors' to document 3185841
+Added 'tumor' to document 3185841
+Added 'tumour' to document 1931625
+Added 'tumour' to document 1931625
+Added 'early age' to document 1931625
+Added 'dominant' to document 9425907
+Added 'ear anomalies' to document 9425907
+Added 'sporadic' to document 9425907
+Added 'mental retardation' to document 18701717
+Added 'retardation' to document 18701717
+Added 'acoustic neuroma' to document 6774282
+Added 'autosomal dominant disorder' to document 6774282
+Added 'dominant' to document 6774282
+Added 'pterygium' to document 10593995
+Added 'autosomal dominant disorder' to document 10593995
+Added 'dominant' to document 10593995
+Added 'cleft lip, cleft palate' to document 10593995
+Added 'lip pits' to document 10593995
+Added 'pits' to document 10593995
+Added 'dominant' to document 10593995
+Added 'lip pits' to document 10593995
+Added 'pits' to document 10593995
+Added 'autosomal dominant disorder' to document 8681379
+Added 'pits' to document 8681379
+Added 'tumors' to document 8681379
+Added 'sporadic' to document 8681379
+Added 'tumor' to document 8681379
+Added 'tumors' to document 8681379
+Added 'autosomal dominant disorder' to document 1478663
+Added 'dominant' to document 1478663
+Added 'deaf' to document 1478663
+Added 'pits' to document 1478663
+Added 'branchial cleft' to document 1478663
+Added 'autosomal dominant' to document 1003450
+Added 'dominant' to document 1003450
+Added 'dominant trait' to document 1003450
+Added 'short ear' to document 8145850
+Added 'short ear' to document 8145850
+Added 'dominant' to document 7747785
+Added 'dominant inheritance' to document 7747785
+Added 'retardation' to document 1672177
+Added 'phenotypic abnormality' to document 8317476
+Added 'dominant' to document 8317476
+Added 'mode of inheritance' to document 8317476
+Added 'developmental delay' to document 2466440
+Added 'paroxysmal laughter' to document 2466440
+Added 'laughter' to document 2466440
+Added 'facial appearance' to document 2466440
+Added 'movement disorder' to document 2466440
+Added 'ataxic' to document 2466440
+Added 'variable' to document 2466440
+Added 'vestibular schwannomas' to document 8751853
+Added 'schwannomas' to document 8751853
+Added 'tumors' to document 8751853
+Added 'schwannomas' to document 8751853
+Added 'meningiomas' to document 8751853
+Added 'skin tumors' to document 8751853
+Added 'tumors' to document 8751853
+Added 'cataracts' to document 8751853
+Added 'variable' to document 8751853
+Added 'tumors' to document 8751853
+Added 'autosomal dominant disorder' to document 19557015
+Added 'tumors' to document 19557015
+Added 'bilateral renal agenesis' to document 6846397
+Added 'oligohydramnios' to document 6846397
+Added 'bilateral renal agenesis' to document 6846397
+Added 'wrinkled skin' to document 10767004
+Added 'pits' to document 10767004
+Added 'fistulas' to document 10767004
+Added 'pits' to document 10767004
+Added 'young' to document 509397
+Added 'hemiparesis' to document 509397
+Added 'clinical variability' to document 11837604
+Added 'variability' to document 11837604
+Added 'brachydactyly' to document 11837604
+Added 'variable' to document 11837604
+Added 'brachydactyly' to document 11837604
+Added 'brachydactyly' to document 11837604
+Added 'prognathism' to document 7625442
+Added 'retardation' to document 7625442
+Added 'schwannoma' to document 17353411
+Added 'epiretinal membranes' to document 17353411
+Added 'autosomal-dominant inheritance' to document 11455389
+Added 'dominant' to document 11455389
+Added 'dominant inheritance' to document 11455389
+Added 'mental retardation, profound' to document 11748306
+Added 'retardation' to document 11748306
+Added 'speech impairment' to document 11748306
+Added 'sporadic' to document 11748306
+Added 'retardation' to document 9556704
+Added 'mode of inheritance' to document 1360768
+Added 'autosomal recessive' to document 1360768
+Added 'autosomal recessive inheritance' to document 1360768
+Added 'neurofibromatosis' to document 2105641
+Added 'autosomal dominant disorder' to document 2105641
+Added 'dominant' to document 2105641
+Added 'tumors' to document 2105641
+Added 'tumor' to document 2105641
+Added 'tumor' to document 2105641
+Added 'tumor' to document 2105641
+Added 'dominant' to document 19533801
+Added 'medulloblastoma' to document 19533801
+Added 'pterygium' to document 2164325
+Added 'syndactyly' to document 2164325
+Added 'syndactyly' to document 2164325
+Added 'variable' to document 2164325
+Added 'variable expression' to document 2164325
+Added 'pits' to document 4006277
+Added 'branchial' to document 4006277
+Added 'branchial cleft' to document 4006277
+Added 'autosomal dominant' to document 4006277
+Added 'dominant' to document 4006277
+Added 'dominant trait' to document 4006277
+Added 'sporadic cases' to document 1362220
+Added 'autosomal dominant' to document 1362220
+Added 'dominant' to document 1362220
+Added 'dominant inheritance' to document 1362220
+Added 'adolescence' to document 3547011
+Added 'tumors' to document 3547011
+Added 'plantar pits' to document 3547011
+Added 'pits' to document 3547011
+Added 'tumors' to document 3547011
+Added 'somatic mutation' to document 3547011
+Added 'aggression' to document 3547011
+Added 'dominant' to document 9207339
+Added 'tumors' to document 9207339
+Added 'neurofibromatosis' to document 9207339
+Added 'lens opacities' to document 8318482
+Added 'neurofibromatosis' to document 8318482
+Added 'dominant' to document 19476995
+Added 'neoplasia' to document 19476995
+Added 'tumour' to document 19476995
+Added 'de novo' to document 19476995
+Added 'tumours' to document 19476995
+Added 'neuropathy' to document 19476995
+Added 'tumours' to document 19476995
+Added 'lip pits' to document 6928117
+Added 'pits' to document 6928117
+Added 'hearing loss' to document 1248162
+Added 'pits' to document 1248162
+Added 'branchial' to document 1248162
+Added 'branchial cleft' to document 1248162
+Added 'fistulas' to document 1248162
+Added 'bilateral renal dysplasia' to document 1248162
+Added 'branchial' to document 1248162
+Added 'branchial cleft' to document 1248162
+Added 'fistulas' to document 1248162
+Added 'polycystic kidneys' to document 1248162
+Added 'branchial' to document 1248162
+Added 'contractures' to document 12592607
+Added 'heterogeneous' to document 12592607
+Added 'contracture' to document 12592607
+Added 'pits' to document 7468659
+Added 'dominant' to document 7468659
+Added 'hearing loss' to document 11484202
+Added 'variability' to document 11484202
+Added 'ocular abnormalities' to document 7485365
+Added 'ocular abnormalities' to document 7485365
+Added 'developmental abnormalities' to document 7485365
+Added 'ocular abnormalities' to document 7485365
+Added 'cataract' to document 7485365
+Added 'cataract' to document 7485365
+Added 'branchial' to document 7200726
+Added 'retardation' to document 7200726
+Added 'facial appearance' to document 7200726
+Added 'retardation' to document 7200726
+Added 'dominant' to document 7200726
+Added 'mode of inheritance' to document 7905534
+Added 'dominant' to document 7905534
+Added 'sporadic cases' to document 7905534
+Added 'sporadic' to document 7905534
+Added 'sporadic cases' to document 7905534
+Added 'sporadic' to document 7905534
+Added 'familial cases' to document 7905534
+Added 'familial cases' to document 7905534
+Added 'sporadic' to document 7802001
+Added 'sporadic' to document 7802001
+Added 'sporadic cases' to document 7802001
+Added 'sporadic cases' to document 7802001
+Added 'sporadic' to document 7802001
+Added 'sporadic' to document 7802001
+Added 'sporadic' to document 7802001
+Added 'hypopigmentation' to document 7802001
+Added 'vestibular schwannomas' to document 9225971
+Added 'schwannomas' to document 9225971
+Added 'meningiomas' to document 9225971
+Added 'tumor' to document 9225971
+Added 'young age' to document 3409926
+Added 'young' to document 3409926
+Added 'early age' to document 3409926
+Added 'autosomal dominant disorder' to document 1347096
+Added 'autosomal dominant disorder' to document 10051003
+Added 'dominant' to document 10051003
+Added 'variable' to document 10051003
+Added 'ear anomalies' to document 10051003
+Added 'polydactyly' to document 10051003
+Added 'retardation' to document 10051003
+Added 'autosomal dominant disorder' to document 3321995
+Added 'dominant' to document 3321995
+Added 'branchial' to document 3321995
+Added 'branchial cleft' to document 3321995
+Added 'skin lesions' to document 3321995
+Added 'pits' to document 3321995
+Added 'pits' to document 3321995
+Added 'retardation' to document 3321995
+Added 'variable' to document 3321995
+Added 'retardation' to document 11343340
+Added 'cerebral palsy' to document 11343340
+Added 'autism spectrum disorder' to document 11343340
+Added 'developmental delay' to document 11343340
+Added 'sporadic' to document 8981943
+Added 'variability' to document 8981943
+Added 'variable' to document 8981943
+Added 'phenotypic variability' to document 8981943
+Added 'variability' to document 8981943
+Added 'developmental defects' to document 8981943
+Added 'branchial' to document 6829601
+Added 'branchial clefts' to document 6829601
+Added 'clefts' to document 6829601
+Added 'facial appearance' to document 6829601
+Added 'sporadic cases' to document 6829601
+Added 'brachydactyly' to document 12357473
+Added 'mental retardation' to document 3688021
+Added 'ataxic' to document 3688021
+Added 'laughter' to document 3688021
+Added 'facial appearance' to document 3688021
+Added 'neurofibromatosis' to document 3134615
+Added 'nervous system tumors' to document 3134615
+Added 'tumors' to document 3134615
+Added 'acoustic neuromas' to document 3134615
+Added 'tumors' to document 3134615
+Added 'acoustic neuromas' to document 3134615
+Added 'young patients' to document 3134615
+Added 'young' to document 3134615
+Added 'neurofibromatosis' to document 3134615
+Added 'tumors' to document 3134615
+Added 'variability' to document 15994874
+Added 'meningiomas' to document 15994874
+Added 'tumours' to document 15994874
+Added 'ear malformations' to document 657583
+Added 'renal anomalies' to document 657583
+Added 'hearing loss' to document 657583
+Added 'ear malformations' to document 657583
+Added 'variable' to document 657583
+Added 'dominant' to document 657583
+Added 'branchial' to document 657583
+Added 'tumor' to document 12136076
+Added 'tumours' to document 292745
+Added 'dominant' to document 2354548
+Added 'branchial' to document 2354548
+Added 'dominant' to document 2354548
+Added 'papilloma' to document 9808466
+Added 'de novo' to document 10417280
+Added 'branchial' to document 19206155
+Added 'familial cases' to document 1683160
+Added 'sporadic' to document 1683160
+Added 'sporadic' to document 1683160
+Added 'autosomal dominant disorder' to document 12404110
+Added 'dominant' to document 12404110
+Added 'profoundly deaf' to document 12404110
+Added 'genetic heterogeneity' to document 12404110
+Added 'neurofibromas' to document 1745350
+Added 'café au lait spots' to document 1745350
+Added 'spinal neurofibromas' to document 1745350
+Added 'neurofibromas' to document 1745350
+Added 'tumors' to document 1745350
+Added 'tumors' to document 1745350
+Added 'autosomal dominant' to document 1745350
+Added 'dominant' to document 1745350
+Added 'dominant inheritance' to document 1745350
+Added 'autosomal dominant' to document 18177466
+Added 'dominant' to document 18177466
+Added 'dominant trait' to document 18177466
+Added 'branchial' to document 18177466
+Added 'auricular pits' to document 18177466
+Added 'pits' to document 18177466
+Added 'branchial' to document 18177466
+Added 'de novo' to document 18177466
+Added 'pits' to document 11382639
+Added 'basal cell carcinoma' to document 11382639
+Added 'autosomal dominant disorder' to document 2888021
+Added 'dominant' to document 2888021
+Added 'acoustic neuromas' to document 2888021
+Added 'tumours' to document 2888021
+Added 'acoustic neuromas' to document 2888021
+Added 'tumour' to document 2888021
+Added 'tumours' to document 2888021
+Added 'autosomal dominant' to document 18220287
+Added 'dominant' to document 18220287
+Added 'branchial' to document 18220287
+Added 'ear malformations' to document 18220287
+Added 'pits' to document 18220287
+Added 'hearing loss' to document 18220287
+Added 'branchial' to document 18220287
+Added 'mental retardation' to document 7091188
+Added 'retardation' to document 7091188
+Added 'laughter' to document 7091188
+Added 'cerebellar atrophy' to document 7091188
+Added 'acoustic neuromas' to document 9811917
+Added 'schwannomas' to document 9811917
+Added 'tumor' to document 9811917
+Added 'tumor' to document 9811917
+Added 'tumor' to document 9811917
+Added 'tumor' to document 9811917
+Added 'tumor' to document 9811917
+Added 'tumors' to document 9811917
+Added 'colitis' to document 12900905
+Added 'plantar pits' to document 12900905
+Added 'pits' to document 12900905
+Added 'colitis' to document 12900905
+Added 'colitis' to document 12900905
+Added 'colitis' to document 12900905
+Added 'childhood' to document 12900905
+Added 'basal cell nevus syndrome' to document 730159
+Added 'basal cell nevus' to document 730159
+Added 'variable' to document 730159
+Added 'autosomal dominant' to document 730159
+Added 'dominant' to document 730159
+Added 'mode of inheritance' to document 730159
+Added 'acoustic neurinomas' to document 1456285
+Added 'neurinomas' to document 1456285
+Added 'other tumors' to document 1456285
+Added 'tumors' to document 1456285
+Added 'clinical heterogeneity' to document 3674117
+Added 'heterogeneity' to document 3674117
+Added 'hypotonia' to document 3674117
+Added 'infancy' to document 3674117
+Added 'sporadic' to document 15150776
+Added 'sporadic cases' to document 2309778
+Added 'sporadic' to document 2309778
+Added 'sporadic cases' to document 2309778
+Added 'autosomal dominant' to document 18285427
+Added 'dominant' to document 18285427
+Added 'tumors' to document 10771486
+Added 'tumors' to document 10771486
+Added 'tumors' to document 10771486
+Added 'tumors' to document 10771486
+Added 'tumors' to document 10771486
+Added 'schwannomas' to document 10771486
+Added 'schwannomas' to document 10771486
+Added 'tumors' to document 10771486
+Added 'tumors' to document 10771486
+Added 'neurofibromatosis' to document 10771486
+Added 'tumors' to document 10771486
+Added 'tumors' to document 10771486
+Added 'hearing loss' to document 3180506
+Added 'hearing loss' to document 3180506
+Added 'variability' to document 3180506
+Added 'brachydactyly' to document 16957682
+Added 'symphalangism' to document 16957682
+Added 'brachydactyly' to document 8592325
+Added 'brachydactyly' to document 8592325
+Added 'brachydactyly' to document 8592325
+Added 'arthrogryposis' to document 7762579
+Added 'arthrogryposis' to document 7762579
+Added 'arthrogryposis' to document 7762579
+Added 'arachnodactyly' to document 7762579
+Added 'variability' to document 7762579
+Added 'brachydactyly' to document 11169564
+Added 'dominant' to document 11169564
+Added 'variability' to document 11169564
+Added 'brachydactyly' to document 11169564
+Added 'heterogeneity' to document 11169564
+Added 'brachydactyly' to document 11169564
+Added 'interfamilial variability' to document 11169564
+Added 'variability' to document 11169564
+Added 'brachydactyly' to document 11169564
+Added 'heterogeneity' to document 11169564
+Added 'sporadic' to document 1110452
+Added 'dominant' to document 1110452
+Added 'sporadic cases' to document 1110452
+Added 'basal cell nevus syndrome' to document 1110452
+Added 'basal cell nevus' to document 1110452
+Added 'sporadic' to document 1110452
+Added 'autosomal dominant' to document 11312426
+Added 'dominant' to document 11312426
+Added 'dominant inheritance' to document 11312426
+Added 'childhood' to document 11312426
+Added 'childhood' to document 11312426
+Added 'autosomal dominant' to document 10712204
+Added 'dominant inheritance' to document 10712204
+Added 'dominant' to document 10712204
+Added 'basal cell nevus' to document 14699618
+Added 'prognathism' to document 14699618
+Added 'spina bifida' to document 14699618
+Added 'ataxic' to document 9182785
+Added 'laughter' to document 9182785
+Added 'sarcoma' to document 8102569
+Added 'young' to document 6631421
+Added 'autosomal dominant trait' to document 9024575
+Added 'dominant' to document 9024575
+Added 'variable' to document 9024575
+Added 'foot involvement' to document 9024575
+Added 'brachydactyly' to document 9024575
+Added 'heterogeneity' to document 9024575
+Added 'variability' to document 9024575
+Added 'brachydactyly' to document 9024575
+Added 'brachydactyly' to document 391043
+Added 'brachydactyly' to document 391043
+Added 'de novo' to document 9557895
+Added 'basal cell nevus' to document 8352281
+Added 'basal cell nevus syndrome' to document 8352281
+Added 'cancer' to document 8352281
+Added 'sporadic' to document 8352281
+Added 'tumor' to document 8352281
+Added 'heterogeneity' to document 8352281
+Added 'sporadic' to document 8352281
+Added 'basal cell nevus' to document 8658145
+Added 'basal cell nevus syndrome' to document 8658145
+Added 'cancer' to document 8658145
+Added 'somatic mutation' to document 8658145
+Added 'sporadic' to document 8658145
+Added 'tumor' to document 8658145
+Added 'tumor' to document 1496981
+Added 'sporadic' to document 1496981
+Added 'sporadic' to document 1496981
+Added 'tumors' to document 1496981
+Added 'sporadic' to document 1496981
+Added 'tumors' to document 1496981
+Added 'tumor' to document 1496981
+Added 'dominant' to document 1496982
+Added 'schwannomas' to document 1496982
+Added 'other tumors' to document 1496982
+Added 'tumors' to document 1496982
+Added 'genetic heterogeneity' to document 1496982
+Added 'heterogeneity' to document 1496982
+Added 'pits' to document 1415348
+Added 'branchial' to document 1415348
+Added 'neurofibromatosis' to document 3105060
+Added 'tumors' to document 3105060
+Added 'tumor' to document 3105060
+Added 'tumors' to document 3105060
+Added 'tumor' to document 3105060
+Added 'dominant' to document 8092198
+Added 'branchial' to document 8092198
+Added 'interfamilial variability' to document 8092198
+Added 'variability' to document 8092198
+Added 'autosomal dominant form' to document 8092199
+Added 'dominant form' to document 8092199
+Added 'dominant' to document 8092199
+Added 'arthrogryposis' to document 9012416
+Added 'contractures' to document 9012416
+Added 'young' to document 8832722
+Added 'bilateral cleft lip' to document 8832722
+Added 'cleft lip' to document 8832722
+Added 'cleft lip and palate' to document 8832722
+Added 'microphthalmos' to document 8832722
+Added 'ocular abnormalities' to document 8832722
+Added 'developmental abnormalities' to document 8832722
+Added 'sensorineural hearing loss' to document 6859100
+Added 'hearing loss' to document 6859100
+Added 'autosomal dominant' to document 6859100
+Added 'dominant' to document 6859100
+Added 'dominant inheritance' to document 6859100
+Added 'variable' to document 6859100
+Added 'arthrogryposis' to document 7977374
+Added 'locus heterogeneity' to document 7977374
+Added 'heterogeneity' to document 7977374
+Added 'foot deformities' to document 7977374
+Added 'cancer' to document 1750770
+Added 'acoustic neuromas' to document 7057963
+Added 'nervous system tumors' to document 7057963
+Added 'tumors' to document 7057963
+Added 'capsular cataract' to document 2705922
+Added 'lens opacities' to document 2705922
+Added 'variability' to document 15470370
+Added 'meningiomas' to document 12235555
+Added 'meningiomas' to document 12235555
+Added 'basal cell nevus' to document 8042673
+Added 'basal cell carcinomas' to document 8042673
+Added 'brachydactyly' to document 3281570
+Added 'tumours' to document 3092103
+Added 'tumours' to document 3092103
+Added 'tumours' to document 3092103
+Added 'sporadic' to document 3092103
+Added 'tumours' to document 3092103
+Added 'tumours' to document 3092103
+Added 'tumours' to document 3092103
+Added 'neurofibromatosis' to document 3092103
+Added 'autosomal dominant disorder' to document 3092103
+Added 'dominant' to document 3092103
+Added 'acoustic neuromas' to document 3092103
+Added 'neurofibromatosis' to document 3092103
+Added 'acoustic neuroma' to document 3092103
+Added 'meningioma' to document 3092103
+Added 'vestibular schwannomas' to document 9863591
+Added 'schwannomas' to document 9863591
+Added 'young' to document 9863591
+Added 'tumours' to document 9863591
+Added 'vestibular schwannomas' to document 9863591
+Added 'schwannomas' to document 9863591
+Added 'tumours' to document 9863591
+Added 'tumour' to document 9863591
+Added 'tumour' to document 9863591
+Added 'sporadic' to document 9863591
+Added 'familial cases' to document 9863591
+Added 'tumours' to document 9863591
+Added 'vestibular schwannoma' to document 9863591
+Added 'schwannoma' to document 9863591
+Added 'schwannomas' to document 1484939
+Added 'meningiomas' to document 1484939
+Added 'tumours' to document 1484939
+Added 'weakness' to document 1484939
+Added 'tumours' to document 1484939
+Added 'tumour' to document 1484939
+Added 'pterygium' to document 7628117
+Added 'pterygium' to document 7628117
+Added 'variable' to document 3799714
+Added 'congenital contractures' to document 8923935
+Added 'contractures' to document 8923935
+Modified 'type A brachydactylia,' to 'type A brachydactylia' in document 6631421
+Modified 'internal organs' to 'anomalies of other internal organs' in document 6741990
+Modifed 'e tumors' to 'tumors' in document 3134615
+Modified 'ral cervical sinuse' to 'lateral cervical sinuses' in document 3740720

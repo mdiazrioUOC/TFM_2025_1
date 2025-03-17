@@ -1,0 +1,50 @@
+HP:0000002	Desviación de la norma de estatura con respecto a la esperada según las normas de edad y sexo.
+HP:0000003	La displasia multiquística del riñón se caracteriza por múltiples quistes de tamaño variable en el riñón y la ausencia de un sistema pelvico-iceal normal. La enfermedad se asocia a atresia ureteral o ureteropélvica, y el riñón afectado no es funcional.
+HP:0000005	Patrón según el cual un determinado rasgo o trastorno genético se transmite de una generación a la siguiente.
+HP:0000006	Modo de herencia que se observa en los rasgos relacionados con un gen codificado en uno de los autosomas (es decir, los cromosomas humanos 1-22) en el que un rasgo se manifiesta en heterocigotos. En el contexto de la genética médica, un trastorno autosómico dominante se produce cuando está presente una sola copia del alelo mutante. Afecta por igual a hombres y mujeres, y ambos pueden transmitir el trastorno con un riesgo del 50% para cada hijo de heredar el alelo mutante.
+HP:0000007	Modo de herencia que se observa en los rasgos relacionados con un gen codificado en uno de los autosomas (es decir, los cromosomas humanos 1-22) en el que un rasgo se manifiesta en individuos con dos alelos patógenos, ya sean homocigotos (dos copias del mismo alelo mutante) o heterocigotos compuestos (en los que cada copia de un gen tiene un alelo mutante distinto).
+HP:0000008	Anomalía de los genitales internos femeninos.
+HP:0000009	Disfunción de la vejiga urinaria.
+HP:0000010	Infecciones repetidas de las vías urinarias.
+HP:0000011	Tipo de disfunción de la vejiga causada por daños neurológicos. La vejiga neurógena puede ser flácida o espástica. Las manifestaciones comunes de la vejiga neurógena son incontinencia por rebosamiento, polaquiuria, tenesmo vesical, incontinencia de urgencia y retención.
+HP:0000012	La incontinencia de urgencia es la necesidad imperiosa y repentina de orinar.
+HP:0000013	Subdesarrollo del útero.
+HP:0000014	Anomalía de la vejiga urinaria.
+HP:0000015	Divertículo (saco o bolsa) en la pared de la vejiga urinaria.
+HP:0000016	Incapacidad para vaciar completamente la vejiga urinaria durante el proceso de micción.
+HP:0000017	Aumento anormal de la producción de orina durante la noche que provoca una necesidad inusualmente frecuente de orinar.
+HP:0000019	Dificultad para iniciar el proceso de micción.
+HP:0000020	Pérdida de la capacidad de controlar la vejiga urinaria, lo que provoca una micción involuntaria.
+HP:0000021	Dilatación de la vejiga postnatal.
+HP:0000022	Anomalía de los genitales internos masculinos.
+HP:0000023	Protrusión del contenido de la cavidad abdominal a través del canal inguinal.
+HP:0000024	La presencia de inflamación de la próstata.
+HP:0000026	Disminución de la funcionalidad de la gónada masculina, es decir, de los testículos, con reducción de la espermatogénesis o de la síntesis de testosterona.
+HP:0000027	Ausencia de cualquier nivel mensurable de espermatozoides, por lo que no pueden observarse espermatozoides ni siquiera tras la centrifugación del sedimento seminal.
+HP:0000028	Testículo en el canal inguinal. Es decir, ausencia de uno o ambos testículos en el escroto debido a que el testículo o los testículos no descienden por el canal inguinal hasta el escroto.
+HP:0000029	Desgaste (atrofia) del testículo (la gónada masculina) que se manifiesta por una disminución de su tamaño y, potencialmente, por una pérdida de fertilidad.
+HP:0000030	La presencia de un gonadoblastoma de testículo.
+HP:0000031	La presencia de inflamación del epidídimo.
+HP:0000032	Cualquier anomalía estructural de los genitales externos masculinos.
+HP:0000033	Genitales ambiguos en un individuo con sexo genético XY.
+HP:0000034	Acumulación de líquido claro entre las capas de membrana (túnica vaginal) que rodean los testículos.
+HP:0000035	Anomalía del testículo (gónada masculina).
+HP:0000036	Anomalía del órgano sexual externo masculino.
+HP:0000037	El hermafroditismo se refiere a una discrepancia entre la morfología de las gónadas y la de los genitales externos. En el pseudohermafroditismo masculino, el genotipo es masculino (XY) y los genitales externos están incompletamente virilizados, son ambiguos o completamente femeninos. Si hay gónadas, se trata de testículos.
+HP:0000039	La epispadias es una malformación urogenital caracterizada por la falta de tubularización del conducto uretral en la cara dorsal. A diferencia de la hipospadias, en la que el meato se encuentra en la cara ventral, los niños con epispadias presentan una placa uretral muy abierta en la cara dorsal. Se suele ver como un componente en el espectro del complejo extrofia-epispadias-vejiga. El epispadias aislado constituye menos del 10% del total de casos de epispadias.
+HP:0000040	Longitud del pene más de 2 DE por encima de la media para la edad.
+HP:0000041	Curvatura ventral (es decir, hacia abajo), lateral o ventrolateral del cuerpo y del glande del pene de más de 30 grados.
+HP:0000042	Ausencia de genitales externos en un individuo masculino o femenino.
+HP:0000044	El hipogonadismo hipogonadotrópico se caracteriza por una disminución de la función de las gónadas (testículos en los varones u ovarios en las mujeres) y es el resultado de la ausencia de las hormonas hipofisarias estimulantes de las gónadas: la hormona foliculoestimulante (FSH) y la hormona luteinizante (LH).
+HP:0000045	Cualquier anomalía estructural del escroto, es decir, la bolsa que contiene los testículos, el epidídimo y la parte inferior del cordón espermático.
+HP:0000046	Escroto aparentemente pequeño para la edad.
+HP:0000047	Posición anormal del meato uretral en el cuerpo ventral del pene (cara inferior) caracterizada por el desplazamiento del meato uretral desde la punta del glande del pene hacia la superficie ventral del pene, el escroto o el perineo.
+HP:0000048	Hendidura o hendidura en la línea media del escroto.
+HP:0000049	Margen superior del escroto superior a la base del pene.
+HP:0000050	Subdesarrollo de una parte o la totalidad de los órganos reproductores externos masculinos (que incluyen el pene, el escroto y la uretra).
+HP:0000051	Hipospadias con localización del meato uretral en la región perineal.
+HP:0000052	Anomalía congénita caracterizada por el cierre o la falta de desarrollo de un orificio en la uretra en los varones.
+HP:0000053	Presencia de testículos anormalmente grandes.
+HP:0000054	Pene anormalmente pequeño. Al nacer, el pene normal mide unos 3 cm (longitud estirada desde el tubérculo púbico hasta la punta del pene) con micropene inferior a 2,0-2,5 cm.
+HP:0000055	Cualquier anomalía estructural de los genitales externos femeninos.
+HP:0000056	Cualquier anomalía estructural del clítoris.
