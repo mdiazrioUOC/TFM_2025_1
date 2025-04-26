@@ -100,4 +100,4 @@ def custom_chain(question):
                      "candidates":pretty_print_candidates(new_docs)})
         intermediate_results.append([doc.id for doc in new_docs])    
     answer = hpo_assignment.batch(docs)
-    return {"final answer": answer, "docs": intermediate_results}
+    return {"final_answer": answer, "docs": intermediate_results}
