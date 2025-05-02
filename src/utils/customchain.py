@@ -41,12 +41,12 @@ vectordb = Chroma(persist_directory="../../chroma_db/Voyage3", embedding_functio
 retriever = vectordb.as_retriever(search_kwargs={"k": 3})
 fuzzyretriever = FuzzyRetriever()
 
-# with open("../../resources/keyword_retriever.pkl", "rb") as fp:
-#     keyword_retriever = pkl.load(fp)
+with open("../../resources/keyword_retriever.pkl", "rb") as fp:
+    keyword_retriever = pkl.load(fp)
 
-# ensemble_retriever = EnsembleRetriever(retrievers=[retriever,
-#                                                    keyword_retriever],
-#                                        weights=[0.6, 0.4], id_key="hpo_id")
+ensemble_retriever = EnsembleRetriever(retrievers=[retriever,
+                                                   keyword_retriever],
+                                       weights=[0.6, 0.4], id_key="hpo_id")
 
 class PhenotypeCandidate(BaseModel):
     """Fenotipos, patrones de herencia genética, anomalías anatómicas, síntomas clínicos, hallazgos diagnósticos, resultados de pruebas y afecciones o síndromes específicos en la nota clínica"""
@@ -104,7 +104,7 @@ def custom_chain(question):
     docs = []
     intermediate_results = []
     for query in response.candidates:
-        new_docs = retriever.invoke(query.context)
+        new_docs = ensemble_retriever.invoke(query.context)
         fuzzy_docs = [x[0] for x in fuzzyretriever.invoke(query.phenotype)]
         new_docs =  vectordb.get_by_ids(set(fuzzy_docs)) + new_docs if len(set(fuzzy_docs)) > 0 else new_docs
         docs.append({"clinical_note":question,
