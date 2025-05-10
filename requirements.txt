@@ -1,0 +1,16 @@
+Flask==3.1.0
+langchain==0.3.23
+langchain-chroma==0.2.2
+langchain-community==0.3.19
+langchain-core==0.3.56
+langchain-ollama==0.3.2
+langchain-openai==0.3.12
+langchain-text-splitters==0.3.8
+langchain-voyageai==0.1.4
+langsmith==0.3.42
+pandas==1.5.3
+pydantic==2.11.4
+python-dotenv==1.1.0
+rapidfuzz==3.13.0
+streamlit==1.44.1
+rank-bm25==0.2.2

@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% block content %}
+    <div style="width:1000px; margin: auto;">
+        <form method="POST" onsubmit="mostrarCargando()">
+            {% csrf_token %}
+            <div class="mb-3 note-area">
+                <div class="dropdown-container">
+                    <label for="clinical_note" class="form-label">Escribe la nota clínica</label>
+                    <select id="note-example" class="dropdown-control" onchange="populateTextarea()">
+                        <option value="">o selecciona una nota de ejemplo</option>
+                        <option value="El paciente fue diagnosticado con fiebre e insuficiencia cardíaca.">Ejemplo 1</option>
+                        <option value="Se observó microcefalia en la evaluación neurológica inicial del recién nacido.">Ejemplo 2</option>
+                        <option value="Un hombre de 44 años con obesidad mórbida e índice de masa corporal (IMC 63) se sometió a una gastrectomía en manga para perder peso y se le encontraron múltiples pólipos adenomatosos de la glándula fúndica en la patología final.">Ejemplo 3</option>
+                    </select>
+                </div>
+                <textarea class="form-control" id="clinical_note" name="clinical_note" rows="10">{{ note }}</textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Procesar</button>
+        </form>
+        <div id="loading-overlay" style="display:none">
+            <div class="spinner"></div>
+        </div>
+    </div>
+<script>
+    function populateTextarea() {
+        var selectedNote = document.getElementById('note-example').value;
+        document.getElementById('clinical_note').value = selectedNote;
+    }
+    function mostrarCargando() {
+        document.getElementById("loading-overlay").style.display = "flex";
+  }
+</script>
+<div class="column">
+    <div>{{result}}</div>
+</div>
+{% endblock %}

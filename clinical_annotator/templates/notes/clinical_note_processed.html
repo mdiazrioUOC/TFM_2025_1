@@ -1,0 +1,206 @@
+{% extends 'base.html' %}
+{% block content %}
+<script>
+    function highlightText(note, start, end) {
+        // Escape HTML chars to prevent injection
+        const escapedNote = note.replace(/</g, "&lt;").replace(/>/g, "&gt;");
+        const highlightedNote = escapedNote.substring(0, start)
+            + '<span class="highlighted">'
+            + escapedNote.substring(start, end)
+            + '</span>'
+            + escapedNote.substring(end);
+        document.getElementById('clinical-note').innerHTML = highlightedNote;
+    }
+
+    function clearHighlight(clinical_note){
+        document.getElementById('clinical-note').innerHTML = clinical_note; 
+    }
+
+    function deleteHPO(code) {
+        fetch("{% url 'delete_hpo_code' %}", {
+            method: "POST",
+            headers: {
+                'X-CSRFToken': '{{ csrf_token }}',
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ code: code })
+        }).then(response => location.reload());
+    }
+
+    function updateHPO(code, name, counter) {
+        fetch("{% url 'exchange_hpo_code' %}", {
+            method: "POST",
+            headers: {
+                'X-CSRFToken': '{{ csrf_token }}',
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ code: code, name:name, counter:counter})
+        }).then(response => location.reload());
+    }
+</script>
+
+<!-- clinical_note_processed.html -->
+<div class="container mt-4">
+    <div class="row">
+        <!-- Left Column: Clinical Note -->
+        <div class="col-md-6" style="padding-left: 0px; padding-right:50px;">
+            <h4>Nota Clínica</h4>
+            <div class="border p-3 rounded" style="background-color:#f2f1f1;">
+                <p id="clinical-note">{{clinical_note}}</p>
+            </div>
+            <a href="{% url 'add_clinical_note' %}" class="btn btn-primary" style="margin-top:20px">Nueva nota</a>
+        </div>
+
+        <!-- Right Column: HPO Codes -->
+        <div class="col-md-6" style="height:550px; overflow: auto;">
+            <h4>Códigos HPO</h4>
+            <div class="">
+                <table class="table table-hover">
+                    <thead >
+                        <tr>
+                            <th style="padding: 0px"></th><th style="padding: 0px; min-width: 85px;"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for hpo in hpo_codes %}
+                        <tr class="hpo-row"
+                            onmouseover="highlightText('{{clinical_note}}', {{hpo.start }}, {{ hpo.end }})"
+                            onmouseout="clearHighlight('{{clinical_note}}')"
+                            id="main-row-{{ forloop.counter }}">
+                            <td>{{ hpo.code }} - {{ hpo.name }}
+                                <a href="https://hpo.jax.org/browse/term/{{ hpo.code }}" target="_blank" title="View HPO term">
+                                    <i class="fa-solid fa-up-right-from-square" style="color:  #000078;"></i>
+                                </a>
+                            </td>
+                            <td>
+                                <button onclick="deleteHPO('{{ hpo.code }}')" class="btn btn-sm"><i class="fa-solid fa-x fa-xs" style="color:#000078;"></i></button>
+                                <button class="btn btn-sm" onclick="toggleCandidates({{ forloop.counter }})" id="icon-{{ forloop.counter }}"><i class="fa-solid fa-angle-down" style="color:#000078;"></i></button>
+                            </td>
+                        </tr>
+                        {% with outer_counter=forloop.counter %}
+                        <tr id="candidates-row-{{outer_counter}}" style="display:none;">
+                            <td colspan="3">
+                              <ul class="list-group">
+                                {% for candidate in hpo.candidates %}
+                                <li class="list-group-item d-flex justify-content-between align-items-center" style="color:#726d6d;">
+                                  {{ candidate.code }} - {{ candidate.name }}
+                                  <button class="btn btn-sm btn-outline-info" onclick="updateHPO('{{ candidate.code }}', '{{ candidate.name }}', {{ outer_counter }})">Seleccionar</button>
+                                </li>
+                                {% endfor %}
+                              </ul>
+                            </td>
+                          </tr>
+                        {% endwith %}
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <!-- Add Form -->
+            <button id="add-new-code-btn" class="btn btn-outline-primary" style="margin:20px 0px 20px 0px;">Nuevo código</button>
+
+            <!-- Form for adding a new HPO code, initially hidden -->
+            <div id="new-code-form" style="display:none; ">
+                <form id="hpo-code-form" method="POST" action="/add-hpo-code/">
+                    {% csrf_token %}
+                    <div class="row mb-3">
+                        <div class="col-md-8">
+                          <label for="selected_text" class="form-label">Subcadena seleccionada</label>
+                          <input type="text" id="selected_text" name="selected_text" class="form-control" required readonly placeholder="En el texto, subraye la parte que desea anotar">
+                        </div>
+                        <div class="col-md-2">
+                          <label for="start_position" class="form-label">Comienzo</label>
+                          <input type="number" id="start_position" name="start_position" class="form-control" required readonly>
+                        </div>
+                        <div class="col-md-2">
+                          <label for="end_position" class="form-label">Final</label>
+                          <input type="number" id="end_position" name="end_position" class="form-control" required readonly>
+                        </div>
+                    </div>
+                    <div class="row mb-3" style="margin-top: 10px;">
+                        <div class="col-md-6">
+                            <label for="hpo-search" class="form-label">Buscador de códigos</label>
+                            <input type="text" id="hpo-search" placeholder="Busque código por palabra clave..." class="form-control" >
+                        </div>
+                        <div class="col-md-6">
+                            <label for="hpo-dropdown" class="form-label">Selección de códigos HPO</label>
+                            <select id="hpo-dropdown" name="hpo_code" class="form-control">
+                                <option selected>Sin coincidencias</option>
+                            </select> 
+                        </div>
+                    </div>               
+                    <button type="submit" class="btn btn-info">Guardar</button>
+                    <button type="button" id="cancel-btn" class="btn btn-secondary">Cancelar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function toggleCandidates(index) {
+        const row = document.getElementById(`candidates-row-${index}`);
+        const icon = document.getElementById(`icon-${index}`);
+        
+        const isHidden = row.style.display === "none";
+        row.style.display = row.style.display === "none" ? "table-row" : "none";
+
+        if (isHidden) {
+            icon.innerHTML = "<i class='fa-solid fa-angle-up' style='color:#000078;''></i>"; // Change to up arrow
+        } else {
+            icon.innerHTML = "<i class='fa-solid fa-angle-down' style='color:#000078;''></i>";// Change back to down arrow
+        }
+    }
+
+    function selectCandidate(index, newCode, newName) {
+    document.getElementById(`code-${index}`).innerText = newCode;
+    document.getElementById(`name-${index}`).innerText = newName;
+    toggleCandidates(index); // Optional: close after selection
+    }
+    document.getElementById("hpo-search").addEventListener("input", function () {
+        const query = this.value;
+        if (query.length < 2) return;
+
+        fetch(`/api/search-hpo/?q=${encodeURIComponent(query)}`)
+        .then(response => response.json())
+        .then(data => {
+            const dropdown = document.getElementById("hpo-dropdown");
+            dropdown.innerHTML = '';  // Clear previous options
+            if (data.results.length === 0) {
+            dropdown.innerHTML = '<option disabled>No matches found</option>';
+            return;
+            }
+
+            data.results.forEach(item => {
+            const option = document.createElement("option");
+            option.value = `${item.hpo_code} - ${item.hpo_name}`;
+            option.textContent = `${item.hpo_code} - ${item.hpo_name}`;
+            dropdown.appendChild(option);
+            });
+        });
+    });
+       // When the "Add New Code" button is clicked, show the form
+        document.getElementById("add-new-code-btn").addEventListener("click", function() {
+        document.getElementById("new-code-form").style.display = "block"; // Show the form
+    });
+
+    // When the cancel button is clicked, hide the form
+    document.getElementById("cancel-btn").addEventListener("click", function() {
+        document.getElementById("new-code-form").style.display = "none"; // Hide the form
+    });
+
+    // Capture the selection's start and end positions when user selects text
+    document.getElementById("clinical-note").addEventListener("mouseup", function() {
+        var selection = window.getSelection();
+        if (selection.rangeCount > 0) {
+            var range = selection.getRangeAt(0);
+            var start = range.startOffset;
+            var end = range.endOffset;
+            var selectedText = selection.toString(); // Get the selected text
+            // Automatically fill the start and end positions into the form
+            document.getElementById("start_position").value = start;
+            document.getElementById("end_position").value = end;
+            document.getElementById("selected_text").value = selectedText;
+        }
+    });
+</script>
+{% endblock %}

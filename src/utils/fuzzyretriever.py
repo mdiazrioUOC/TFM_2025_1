@@ -1,8 +1,9 @@
+import os
 import pickle as pkl
 from rapidfuzz import process, fuzz
 from rapidfuzz.utils import default_process
 
-with open("../../resources/fuzzy_retriever.pkl", 'rb') as fp:
+with open(os.path.join(os.environ["PROJECT_DIR"], "resources", "fuzzy_retriever.pkl"), 'rb') as fp:
     data = pkl.load(fp)
 
 class FuzzyRetriever:
