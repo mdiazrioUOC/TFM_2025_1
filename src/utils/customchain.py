@@ -21,6 +21,15 @@ from langchain.retrievers import EnsembleRetriever
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.prompts import ChatPromptTemplate, HumanMessagePromptTemplate, SystemMessagePromptTemplate
 
+def process_unique_metadata(doc_array, ontology, MAX_DOCS=5):
+    unique_ids = []
+    i=0
+    while len(unique_ids) < MAX_DOCS and i<len(doc_array):
+        if doc_array[i].metadata["hpo_id"] not in unique_ids:
+            unique_ids.append(doc_array[i].metadata["hpo_id"] )
+        i += 1
+    return ontology.get_by_ids(unique_ids)
+
 PROJECT_DIR = os.environ["PROJECT_DIR"]
 
 llm = init_chat_model("o4-mini", model_provider="openai")
@@ -44,9 +53,11 @@ prompt = ChatPromptTemplate.from_messages(
 )
 
 chroma_client = chromadb.HttpClient(host=os.environ['CHROMADB_CONNECTION'], port=8001)
-vectordb = Chroma(client=chroma_client, embedding_function=embeddings_model, 
+vectordb_sep = Chroma(client=chroma_client, embedding_function=embeddings_model, 
+                  collection_name="hpo_ontology_esp_SEP")
+ontology = Chroma(client=chroma_client, embedding_function=embeddings_model, 
                   collection_name="hpo_ontology_esp_FULL")
-retriever = vectordb.as_retriever(search_kwargs={"k": 3})
+retriever = vectordb_sep.as_retriever(search_kwargs={"k": 20})
 fuzzyretriever = FuzzyRetriever()
 
 with open(os.path.join(PROJECT_DIR, "resources", "keyword_retriever.pkl"), "rb") as fp:
@@ -75,7 +86,7 @@ extractphenotypes = prompt | structured_llm
 sys_template = """Identifica el término de la Ontología de Fenotipos Humanos (HPO) más apropiado para cada extracto de las notas clínicas del paciente a partir de una lista de candidatos (Código HPO - Descripción).
 Da prioridad a los términos que sean concisos y directamente pertinentes para el síntoma o afección principal descritos. 
 Céntrate en el tema central de cada frase y evita seleccionar opciones con detalles descriptivos o situacionales adicionales a menos que sean esenciales para captar con precisión el fenotipo. 
-Asegúrate de que el término HPO elegido coincide estrechamente con la afección del paciente tal como se describe, sin añadir términos nuevos o extraños. 
+Asegúrate de que el término HPO elegido coincide exactamente con la afección del paciente tal como se describe, sin añadir términos nuevos o extraños. Si crees que no encaja mínimamente, no selecciones ningún candidato.
 Si hay varios candidatos, selecciona y devuelve el término HPO más pertinente que mejor represente la afección o síntoma primario. Proporciona sólo los códigos HPO elegidos. La nota clínica original es la siguiente:
 {clinical_note}
 """
@@ -118,9 +129,11 @@ def custom_chain(question, with_positions=False):
     idxs = []
     intermediate_results = []
     for query in response.candidates:
-        new_docs = retriever.invoke(query.context)
+        new_docs = process_unique_metadata(retriever.invoke(query.extract), ontology)
+        new_docs_ids = [doc.id for doc in new_docs]
         fuzzy_docs = [x[0] for x in fuzzyretriever.invoke(query.phenotype)]
-        new_docs =  vectordb.get_by_ids(set(fuzzy_docs)) + new_docs if len(set(fuzzy_docs)) > 0 else new_docs
+        fuzzy_docs = [doc for doc in fuzzy_docs if doc not in new_docs_ids]
+        new_docs =  ontology.get_by_ids(set(fuzzy_docs)) + new_docs if len(set(fuzzy_docs)) > 0 else new_docs
         docs.append({"clinical_note":question,
                      "term":query.extract,
                      "phenotype":query.phenotype,
