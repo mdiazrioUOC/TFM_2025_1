@@ -34,16 +34,17 @@ PROJECT_DIR = os.environ["PROJECT_DIR"]
 
 llm = init_chat_model("o4-mini", model_provider="openai")
 # llm = ChatOllama(model="llama3.1:8b")
+# llm = ChatOllama(model="qwen3:8b")
+
 
 embeddings_model = VoyageAIEmbeddings(model="voyage-3")
 
 system =  """Eres un experto de codificación de fenotipos de la ontología Human Phenotype Ontology. Para ello primero debes determinar qué fenotipos están presentes en la nota clínica. Sigue los siguientes pasos: 
-1. A partir del siguiente texto clínico, identifica términos del texto que sugieran fenotipos clínicos relevantes, incluyendo diagnósticos, síntomas, signos físicos y hallazgos de laboratorio. 
-2. Ignora por completo los hallazgos negativos, los hallazgos normales (es decir, «normal» o «no»), los procedimientos y los antecedentes familiares. 
-3. Si algún valor incluye de forma implícita un fenotipo, infiérelo y menciónalo como tal en el campo "phenotype".
-4. Si el valor no permite inferir con seguridad un fenotipo, simplemente describe el resultado de la analítica en lenguaje natural.
-5. Para cada término, a parte del fenotipo, incluye la frase a la que pertenezca en la nota clínica original.
-6. Sé específico, cada término debe contener un solo fenotipo asociado. Si tiene dos fenotipos, duplícalo y menciona ambos fenotipos. 
+1. A partir del siguiente texto clínico, identifica términos del texto que sugieran fenotipos clínicos relevantes, incluyendo diagnósticos, síntomas, signos físicos, hallazgos de laboratorio y modos de herencia.  
+2. Si algún valor incluye de forma implícita un fenotipo, infiérelo y menciónalo como tal en el campo "phenotype".
+3. Si el valor no permite inferir con seguridad un fenotipo, simplemente describe el resultado de la analítica en lenguaje natural.
+4. Para cada término (extract), a parte del fenotipo, incluye la frase a la que pertenezca en la nota clínica original (context).
+5. Sé específico, cada término debe contener un solo fenotipo asociado. Si tiene dos fenotipos, duplícalo y menciona ambos fenotipos. 
 """
 prompt = ChatPromptTemplate.from_messages(
     [
@@ -53,11 +54,9 @@ prompt = ChatPromptTemplate.from_messages(
 )
 
 chroma_client = chromadb.HttpClient(host=os.environ['CHROMADB_CONNECTION'], port=8001)
-vectordb_sep = Chroma(client=chroma_client, embedding_function=embeddings_model, 
-                  collection_name="hpo_ontology_esp_SEP")
-ontology = Chroma(client=chroma_client, embedding_function=embeddings_model, 
+vectordb = Chroma(client=chroma_client, embedding_function=embeddings_model, 
                   collection_name="hpo_ontology_esp_FULL")
-retriever = vectordb_sep.as_retriever(search_kwargs={"k": 20})
+retriever = vectordb.as_retriever(search_kwargs={"k": 7})
 fuzzyretriever = FuzzyRetriever()
 
 with open(os.path.join(PROJECT_DIR, "resources", "keyword_retriever.pkl"), "rb") as fp:
@@ -87,7 +86,7 @@ sys_template = """Identifica el término de la Ontología de Fenotipos Humanos (
 Da prioridad a los términos que sean concisos y directamente pertinentes para el síntoma o afección principal descritos. 
 Céntrate en el tema central de cada frase y evita seleccionar opciones con detalles descriptivos o situacionales adicionales a menos que sean esenciales para captar con precisión el fenotipo. 
 Asegúrate de que el término HPO elegido coincide exactamente con la afección del paciente tal como se describe, sin añadir términos nuevos o extraños. Si crees que no encaja mínimamente, no selecciones ningún candidato.
-Si hay varios candidatos, selecciona y devuelve el término HPO más pertinente que mejor represente la afección o síntoma primario. Proporciona sólo los códigos HPO elegidos. La nota clínica original es la siguiente:
+Si hay varios candidatos, selecciona y devuelve el término HPO más pertinente que mejor represente la afección o síntoma primario. Si ves que ningún código encaja, deja el campo a nulo. La nota clínica original es la siguiente:
 {clinical_note}
 """
 
@@ -129,11 +128,11 @@ def custom_chain(question, with_positions=False):
     idxs = []
     intermediate_results = []
     for query in response.candidates:
-        new_docs = process_unique_metadata(retriever.invoke(query.extract), ontology)
+        new_docs = retriever.invoke(query.extract)
         new_docs_ids = [doc.id for doc in new_docs]
         fuzzy_docs = [x[0] for x in fuzzyretriever.invoke(query.phenotype)]
         fuzzy_docs = [doc for doc in fuzzy_docs if doc not in new_docs_ids]
-        new_docs =  ontology.get_by_ids(set(fuzzy_docs)) + new_docs if len(set(fuzzy_docs)) > 0 else new_docs
+        new_docs =  vectordb.get_by_ids(set(fuzzy_docs)) + new_docs if len(set(fuzzy_docs)) > 0 else new_docs
         docs.append({"clinical_note":question,
                      "term":query.extract,
                      "phenotype":query.phenotype,
