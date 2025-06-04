@@ -1,6 +1,6 @@
 # Flask-based Web Application
 
-This is a Flask-based web application to anotate clinical notes according to the Human Phenotype Ontology codification system. Below are the instructions on how to get started, run the app, and create a Docker image.
+This is a Flask-based web application to anotate clinical notes according to the Human Phenotype Ontology codification system. Below are the instructions on how to get started, run the app, and create a Docker image. This Readme file relates to the flask application to makes AI inferences against clinical notes. The code related to the web interface for annotating clinical notes can be found under the folder "clinical_annotator".
 
 ## Getting Started
 
@@ -87,4 +87,4 @@ docker run --env-file .env -p 5000:5000 tfm20251:latest
 
 ## License
 
-CC BY-NC-SA License.
+CC BY-NC License.

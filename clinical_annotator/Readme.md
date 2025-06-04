@@ -91,4 +91,4 @@ docker run --env-file .env -p 8000:8000 clinicalannotator:latest
 
 ## License
 
-CC BY-NC-SA License.
+CC BY-NC License.
