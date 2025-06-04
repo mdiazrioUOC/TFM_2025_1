@@ -1,3 +1,5 @@
+This work has been carried out as part of the final thesis for the Master's degree in Bioinformatics and Biostatistics. The main focus of the project is the development of an application that enables automatic clinical note phenotype annotation, which is made accessible through an API. More detailed information about this Flask-based application can be found in this README file, and the core code is organized within the src folder. Additionally, a web interface has been created to facilitate requesting and validating these phenotype annotations. The code for this web interface, along with further details, is available in the clinical_annotator folder. In addition, the state of the GitHub repository at the time of each assessment has been saved as tags, including: [PEC2](https://github.com/mdiazrioUOC/TFM_2025_1/tree/PEC2), [PEC3](https://github.com/mdiazrioUOC/TFM_2025_1/tree/PEC3), and [PEC4](https://github.com/mdiazrioUOC/TFM_2025_1/tree/PEC4).
+
 # Flask-based Web Application
 
 This is a Flask-based web application to anotate clinical notes according to the Human Phenotype Ontology codification system. Below are the instructions on how to get started, run the app, and create a Docker image. This Readme file relates to the flask application to makes AI inferences against clinical notes. The code related to the web interface for annotating clinical notes can be found under the folder "clinical_annotator".
@@ -88,3 +90,4 @@ docker run --env-file .env -p 5000:5000 tfm20251:latest
 ## License
 
 CC BY-NC License.
+Author: Malena Díaz Río
