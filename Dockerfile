@@ -1,5 +1,5 @@
 # Base image
-FROM tfm20251:latest
+FROM python:3.11-slim
 
 # Set environment variables (example, you can override with --env)
 ENV PROJECT_DIR=/app
@@ -21,7 +21,7 @@ COPY resources/ ./resources/
 COPY requirements.txt .
 
 # Install Python dependencies
-# RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install chromadb==1.0.8
 # Default command (adjust to your main app script)
 CMD ["python", "src/app.py"]

@@ -11,7 +11,6 @@ from django.views.decorators.http import require_GET
 
 dotenv.load_dotenv()
 URL = os.environ["PROCESS_API_URL"]
-
 class HPOCode:
     def __init__(self, code, name, start=None, end=None, candidates=[]):
         self.code = code
@@ -93,7 +92,9 @@ def delete_hpo_code(request):
     if request.method == "POST":
         data = json.loads(request.body)
         code_to_delete = data.get("code")
-        request.session['hpo_codes'] = [code for code in request.session['hpo_codes'] if code["code"] != code_to_delete]
+        start_position_to_delete= data.get("start")
+        print(code_to_delete, start_position_to_delete)
+        request.session['hpo_codes'] = [code for code in request.session['hpo_codes'] if not (code["code"] == code_to_delete and code["start"]== int(start_position_to_delete) )]
         print(request.session['hpo_codes'])
         return JsonResponse({"status": "deleted"})
 

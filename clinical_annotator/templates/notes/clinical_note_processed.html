@@ -16,14 +16,14 @@
         document.getElementById('clinical-note').innerHTML = clinical_note; 
     }
 
-    function deleteHPO(code) {
+    function deleteHPO(code, start) {
         fetch("{% url 'delete_hpo_code' %}", {
             method: "POST",
             headers: {
                 'X-CSRFToken': '{{ csrf_token }}',
                 'Content-Type': 'application/json'
             },
-            body: JSON.stringify({ code: code })
+            body: JSON.stringify({ code: code, start:start })
         }).then(response => location.reload());
     }
 
@@ -73,7 +73,7 @@
                                 </a>
                             </td>
                             <td>
-                                <button onclick="deleteHPO('{{ hpo.code }}')" class="btn btn-sm"><i class="fa-solid fa-x fa-xs" style="color:#000078;"></i></button>
+                                <button onclick="deleteHPO('{{ hpo.code }}', '{{ hpo.start }}' )" class="btn btn-sm"><i class="fa-solid fa-x fa-xs" style="color:#000078;"></i></button>
                                 <button class="btn btn-sm" onclick="toggleCandidates({{ forloop.counter }})" id="icon-{{ forloop.counter }}"><i class="fa-solid fa-angle-down" style="color:#000078;"></i></button>
                             </td>
                         </tr>
